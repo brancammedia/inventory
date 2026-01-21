@@ -23,6 +23,92 @@ TABS = [
     # ("CLOSEOUT_GID", "closeout", "Closeout"),
 ]
 
+# Category mapping to standardize categories to match pricing sheet
+CATEGORY_MAP = {
+    # Area Light related
+    "Area Light": "Area Light",
+    "AL2 Shield": "Area Light",
+    "Arm Mounts": "Tenons",
+    
+    # Basic categories
+    "Barn Light": "Barn Light", 
+    "Bollard": "Bollard",
+    "Canopy": "Canopy",
+    "Corn Bulb": "Corn Bulb",
+    
+    # Downlights
+    "Downlight": "Downlights",
+    
+    # Emergency
+    "Emergency Light": "Exit & Emergency",
+    
+    # Flood Light
+    "Flood Light": "Flood Light",
+    "CLFL1 Flood Light": "Flood Light",
+    "High Output Flood Light": "Flood Light",
+    "Mini Flood Light": "Flood Light",
+    
+    # High Bay
+    "Linear High Bay": "Linear High Bay",
+    "High Bay - Linear": "Linear High Bay",
+    "Die-cast Linear High Bay": "Linear High Bay",
+    "Twin Lens Linear High Bay": "Linear High Bay",
+    "Round High Bay": "Round High Bay",
+    "High Bay - Round": "Round High Bay",
+    "CLRHF High Bay Round": "Round High Bay",
+    
+    # Panel
+    "Flat Panel": "Flat Panel",
+    "Panel - Backlit": "Flat Panel",
+    
+    # Sports
+    "Sports Light": "Sports Light",
+    "Sport Light": "Sports Light",
+    
+    # Stairwell
+    "Stairwell": "Stairwell",
+    "Stairwell Light": "Stairwell",
+    
+    # Strip
+    "Strip Light": "Strip Light",
+    "LS1": "Strip Light",
+    
+    # Tenons
+    "Tenons": "Tenons",
+    
+    # Troffer
+    "Troffer": "Troffer",
+    
+    # Tubes
+    "Tube": "Tube",
+    "Tubes": "Tube",
+    "LED Module": "Tube",
+    
+    # Vapor
+    "Vapor Seal": "Vapor Seal",
+    "CLVS Vapor-Seal": "Vapor Seal",
+    "Vaportight": "Vaportight",
+    "Vapor Tight Series 2": "Vaportight",
+    "CLTP Tri-Proof": "Vaportight",
+    
+    # Wall Pack
+    "Wall Pack": "Wall Pack",
+    
+    # Wraparound
+    "Wraparound": "Wraparound",
+    
+    # Controls
+    "Controls": "Controls",
+    "TEELIO": "Controls",
+    
+    # Accessories
+    "Accessories": "Accessories",
+}
+
+def map_category(raw_category):
+    """Map raw category from sheet to standardized category."""
+    return CATEGORY_MAP.get(raw_category, raw_category)
+
 def fetch_sheet_csv(sheet_id, gid):
     """Fetch a Google Sheet tab as CSV."""
     url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv&gid={gid}"
@@ -96,12 +182,12 @@ def parse_inventory_csv(csv_content):
         
         # Product row: has SKU (could have empty first column if it's a continuation)
         if sku_col:
-            # Build product record
+            # Build product record with mapped category
             product = {
                 'sku': sku_col,
                 'description': row[2].strip() if len(row) > 2 else "",
                 'wattage': row[3].strip() if len(row) > 3 else "",
-                'category': current_category,
+                'category': map_category(current_category),
                 'subcategory': current_subcategory,
                 'ontario': parse_int(row[4] if len(row) > 4 else "0"),
                 'louisville': parse_int(row[5] if len(row) > 5 else "0"),

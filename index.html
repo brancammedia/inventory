@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portor Lighting Inventory</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: Arial, Helvetica, sans-serif; background: #f5f7fa; color: #333; line-height: 1.5; }
+        .container { max-width: 1600px; margin: 0 auto; padding: 20px; }
+        .header { background: #fff; padding: 25px 30px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; }
+        .logo-section { display: flex; align-items: center; gap: 20px; }
+        .logo { width: 180px; height: auto; }
+        .header-text h1 { font-size: 1.4rem; font-weight: 700; color: #1a1a1a; margin-bottom: 4px; }
+        .header-text .subtitle { color: #666; font-size: 0.9rem; font-weight: 500; }
+        .included-info { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
+        .update-badge { background: linear-gradient(135deg, #00a19a 0%, #008f89 100%); color: white; padding: 8px 16px; border-radius: 20px; font-weight: 600; font-size: 12px; }
+        .update-time { background: #f0f0f0; color: #555; padding: 6px 14px; border-radius: 20px; font-size: 11px; font-weight: 500; }
+        .controls { display: flex; gap: 15px; margin-bottom: 20px; flex-wrap: wrap; align-items: center; }
+        .search-box { flex: 1; min-width: 250px; position: relative; }
+        .search-box input { width: 100%; padding: 12px 15px 12px 42px; border: 2px solid #e0e0e0; border-radius: 8px; font-size: 14px; font-family: Arial, Helvetica, sans-serif; transition: all 0.2s; }
+        .search-box input:focus { outline: none; border-color: #00a19a; box-shadow: 0 0 0 3px rgba(0,161,154,0.1); }
+        .search-box::before { content: "🔍"; position: absolute; left: 14px; top: 50%; transform: translateY(-50%); font-size: 16px; }
+        .filter-select { padding: 12px 35px 12px 15px; border: 2px solid #e0e0e0; border-radius: 8px; font-size: 14px; font-family: Arial, Helvetica, sans-serif; background: white; cursor: pointer; appearance: none; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23333' d='M6 8L1 3h10z'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 12px center; min-width: 180px; }
+        .filter-select:focus { outline: none; border-color: #00a19a; }
+        .stats { display: flex; gap: 15px; margin-bottom: 20px; flex-wrap: wrap; }
+        .stat-card { background: white; padding: 15px 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); display: flex; align-items: center; gap: 12px; }
+        .stat-icon { width: 40px; height: 40px; background: linear-gradient(135deg, #00a19a 0%, #008b85 100%); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: white; font-size: 18px; }
+        .stat-value { font-size: 22px; font-weight: 700; color: #00a19a; }
+        .stat-label { font-size: 12px; color: #666; text-transform: uppercase; letter-spacing: 0.5px; }
+        .location-prompt { display: flex; align-items: center; justify-content: center; gap: 10px; padding: 14px 20px; margin-bottom: 0; background: linear-gradient(135deg, #e8f5f4 0%, #d4edec 100%); border-radius: 10px 10px 0 0; border-bottom: 2px solid #00a19a; }
+        .prompt-icon { font-size: 18px; animation: bounce 1.5s infinite; }
+        @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(4px); } }
+        .prompt-text { font-size: 14px; font-weight: 600; color: #00756f; }
+        .location-tabs { display: flex; gap: 0; margin-bottom: 0; background: white; overflow-x: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+        .location-tab { flex: 1; padding: 16px 12px; border: none; background: #f8f9fa; cursor: pointer; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: 600; color: #666; transition: all 0.2s; border-bottom: 3px solid transparent; min-width: 100px; white-space: nowrap; }
+        .location-tab:hover { background: #f0f0f0; color: #333; }
+        .location-tab.active { background: white; color: #00a19a; border-bottom: 3px solid #00a19a; }
+        .location-tab .location-name { display: block; }
+        .location-tab .location-count { font-size: 11px; color: #999; font-weight: normal; margin-top: 2px; }
+        .location-tab.active .location-count { color: #00a19a; }
+        .table-container { background: white; border-radius: 0 0 12px 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); overflow: hidden; margin-bottom: 30px; }
+        .table-wrapper { overflow-x: auto; max-height: 70vh; overflow-y: auto; }
+        table { width: 100%; border-collapse: collapse; font-size: 13px; }
+        thead { position: sticky; top: 0; z-index: 10; }
+        thead::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 2px; background: #00a19a; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .column-header th { background: #00a19a; color: white; padding: 14px 10px; text-align: center; font-weight: 600; font-size: 12px; border-right: 1px solid rgba(255,255,255,0.2); white-space: nowrap; }
+        .column-header th:last-child { border-right: none; }
+        .column-header th.left-align { text-align: left; padding-left: 15px; }
+        .column-header th.sortable { cursor: pointer; user-select: none; }
+        .column-header th.sortable:hover { background: #008b85; }
+        .column-header th .sort-icon { margin-left: 5px; opacity: 0.5; }
+        .column-header th.sorted .sort-icon { opacity: 1; }
+        tbody tr { transition: background 0.15s; }
+        tbody tr:hover { background: #f0fafa; }
+        tbody tr:nth-child(even) { background: #fafafa; }
+        tbody tr:nth-child(even):hover { background: #f0fafa; }
+        td { padding: 10px 8px; border-bottom: 1px solid #eee; text-align: center; }
+        td.sku { font-family: Arial, Helvetica, sans-serif; font-weight: 600; color: #333; text-align: left; padding-left: 15px; white-space: nowrap; }
+        td.description { text-align: left; padding-left: 15px; max-width: 200px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+        td.category { text-align: left; padding-left: 15px; }
+        .category-badge { display: inline-block; background: linear-gradient(135deg, #e8f5f4 0%, #d4edec 100%); color: #00756f; padding: 4px 10px; border-radius: 4px; font-size: 11px; font-weight: 600; white-space: nowrap; max-width: 120px; overflow: hidden; text-overflow: ellipsis; }
+        td.qty { font-family: Arial, Helvetica, sans-serif; color: #333; white-space: nowrap; }
+        td.qty.zero { color: #ccc; }
+        td.total { font-weight: 700; color: #00a19a; background: rgba(0,161,154,0.05); }
+        /* Highlighted column effect when warehouse selected */
+        th.highlighted { background: linear-gradient(135deg, #00a19a 0%, #006663 100%) !important; box-shadow: inset 0 0 0 2px rgba(255,255,255,0.3); }
+        td.highlighted { background: rgba(0,161,154,0.15) !important; font-weight: 600; color: #00756f; }
+        tbody tr:nth-child(even) td.highlighted { background: rgba(0,161,154,0.2) !important; }
+        tbody tr:hover td.highlighted { background: rgba(0,161,154,0.25) !important; }
+        .category-row td { background: linear-gradient(135deg, #00a19a 0%, #008b85 100%); color: white; font-weight: bold; text-align: left; padding: 12px 15px; font-size: 14px; }
+        .sub-category-row td { background: #e8f5f4; color: #00756f; font-weight: 600; text-align: left; padding: 8px 15px 8px 30px; font-size: 13px; }
+        .highlight { background: #fff3cd; padding: 1px 3px; border-radius: 3px; }
+        .no-results { text-align: center; padding: 60px 20px; color: #666; }
+        .no-results h3 { color: #00a19a; margin-bottom: 8px; }
+        .loading { text-align: center; padding: 60px 20px; color: #666; }
+        .loading-spinner { width: 40px; height: 40px; border: 4px solid #e0e0e0; border-top-color: #00a19a; border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto 15px; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+        @media (max-width: 1200px) { .container { padding: 15px; } table { font-size: 12px; } td, th { padding: 8px 6px; } }
+        @media (max-width: 768px) { .header { flex-direction: column; text-align: center; } .location-tabs { flex-wrap: nowrap; } .stats { flex-direction: column; } footer .footer-content { flex-direction: column; text-align: center; } .included-info { align-items: center; } }
+        footer { text-align: center; padding: 25px; color: #888; font-size: 0.85rem; }
+        footer a { color: #00a19a; text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo-section">
+                <img src="https://portorlighting.com/wp-content/uploads/2025/02/portorlogo.svg" alt="Portor Lighting" class="logo">
+                <div class="header-text">
+                    <h1>Inventory Availability</h1>
+                    <div class="subtitle">Updated Every Morning at 7:30 AM PST</div>
+                </div>
+            </div>
+            <div class="included-info">
+                <div class="update-badge">📦 Daily Inventory Data</div>
+                <div class="update-time" id="updateTime">Loading...</div>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="search" placeholder="Search by SKU, description, or category...">
+            </div>
+            <select id="categoryFilter" class="filter-select">
+                <option value="">All Categories</option>
+            </select>
+            <select id="subcategoryFilter" class="filter-select">
+                <option value="">All Subcategories</option>
+            </select>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-icon">📦</div>
+                <div>
+                    <div class="stat-value" id="productCount">-</div>
+                    <div class="stat-label">Products</div>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">📍</div>
+                <div>
+                    <div class="stat-value">5</div>
+                    <div class="stat-label">Locations</div>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">🏷️</div>
+                <div>
+                    <div class="stat-value" id="categoryCount">-</div>
+                    <div class="stat-label">Categories</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="location-prompt">
+            <span class="prompt-icon">👇</span>
+            <span class="prompt-text">View inventory by warehouse location</span>
+        </div>
+        
+        <div class="location-tabs">
+            <button class="location-tab active" data-location="all">
+                <span class="location-name">All Locations</span>
+                <span class="location-count">Combined</span>
+            </button>
+            <button class="location-tab" data-location="ontario">
+                <span class="location-name">Ontario, CA</span>
+                <span class="location-count">West Coast</span>
+            </button>
+            <button class="location-tab" data-location="louisville">
+                <span class="location-name">Louisville, KY</span>
+                <span class="location-count">Central</span>
+            </button>
+            <button class="location-tab" data-location="phoenix">
+                <span class="location-name">Phoenix, AZ</span>
+                <span class="location-count">Will Call Only</span>
+            </button>
+            <button class="location-tab" data-location="dallas">
+                <span class="location-name">Dallas, TX</span>
+                <span class="location-count">Regional</span>
+            </button>
+            <button class="location-tab" data-location="chicago">
+                <span class="location-name">Chicago, IL</span>
+                <span class="location-count">Will Call Only</span>
+            </button>
+        </div>
+        
+        <div class="table-container">
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr class="column-header">
+                            <th class="left-align">Category</th>
+                            <th class="left-align sortable" data-sort="sku">SKU <span class="sort-icon">↕</span></th>
+                            <th class="left-align">Description</th>
+                            <th>Wattage</th>
+                            <th class="sortable" data-sort="ontario">Ontario<span class="sort-icon">↕</span></th>
+                            <th class="sortable" data-sort="louisville">Louisville<span class="sort-icon">↕</span></th>
+                            <th class="sortable" data-sort="phoenix">Phoenix<span class="sort-icon">↕</span></th>
+                            <th class="sortable" data-sort="dallas">Dallas<span class="sort-icon">↕</span></th>
+                            <th class="sortable" data-sort="chicago">Chicago<span class="sort-icon">↕</span></th>
+                            <th class="sortable" data-sort="total">Total<span class="sort-icon">↕</span></th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                        <tr>
+                            <td colspan="10" class="loading">
+                                <div class="loading-spinner"></div>
+                                <p>Loading inventory data...</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <footer>
+            <p>© 2026 Portor Lighting — <a href="https://portorlighting.com" target="_blank">portorlighting.com</a> — <a href="/cdn-cgi/l/email-protection#c6b5a7aaa3b586b6a9b4b2a9b4aaafa1aeb2afa8a1e8a5a9ab"><span class="__cf_email__" data-cfemail="2251434e475162524d50564d504e4b454a564b4c450c414d4f">[email&#160;protected]</span></a> — <a href="tel:323-516-6458">(323) 516-6458</a></p>
+        </footer>
+    </div>
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+// Inventory data will be loaded from JSON file
+let inventoryData = null;
+let currentLocation = 'all';
+let sortColumn = null;
+let sortDirection = 'asc';
+
+const searchInput = document.getElementById('search');
+const categoryFilter = document.getElementById('categoryFilter');
+const subcategoryFilter = document.getElementById('subcategoryFilter');
+const tableBody = document.getElementById('tableBody');
+const productCount = document.getElementById('productCount');
+const categoryCount = document.getElementById('categoryCount');
+const updateTime = document.getElementById('updateTime');
+const locationTabs = document.querySelectorAll('.location-tab');
+
+async function loadData() {
+    try {
+        const response = await fetch('inventory_data.json');
+        if (!response.ok) throw new Error('Failed to load inventory data');
+        inventoryData = await response.json();
+        
+        // Update timestamp
+        updateTime.textContent = `Updated: ${inventoryData.updated_at_pacific}`;
+        
+        // Populate filters
+        populateFilters();
+        
+        // Calculate stats
+        updateStats();
+        
+        // Render table
+        filterAndRender();
+    } catch (error) {
+        console.error('Error loading data:', error);
+        tableBody.innerHTML = `<tr><td colspan="10" class="no-results"><h3>Error Loading Data</h3><p>${error.message}</p></td></tr>`;
+    }
+}
+
+function populateFilters() {
+    const produ  categories.map(c => `<option value="${c}">${c}</option>`).join('');
+    
+    // Get unique subcategories and clean up names
+    const subcategories = [...new Set(products.map(p => p.subcategory).filter(Boolean))].sort();
+    subcategoryFilter.innerHTML = '<option value="">All Subcategories</option>' + 
+        subcategories.map(s => {
+            // Clean display name: remove emojis and shorten long names
+            let displayName = s
+                .replace(/[\u{1F300}-\u{1F9FF}]/gu, '') // Remove emojis
+                .replace(/[☄️🔥]/g, '') // Remove specific symbols
+                .trim();
+            return `<option value="${s}">${displayName}</option>`;
+        }).join('');
+}
+
+function updateStats() {
+    const products = inventoryData.tabs.inventory.products;
+    productCount.textContent = products.length.toLocaleString();
+    
+    const categories = new Set(products.map(p => p.category).filter(Boolean));
+    categoryCount.textContent = categories.size;
+}
+
+function formatQty(qty, isTotal = false) {
+    if (qty === 0) return { value: '0', class: 'zero' };
+    return { value: qty.toLocaleString(), class: '' };
+}
+
+function highlightText(text, query) {
+    if (!query || !text) return text || '';
+    const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+    return text.replace(regex, '<span class="highlight">$1</span>');
+}
+
+function getLocationQty(product, location) {
+    switch(location) {
+        case 'all': return product.total;
+        case 'ontario': return product.ontario;
+        case 'louisville': return product.louisville;
+        case 'phoenix': return product.phoenix;
+        case 'dallas': return product.dallas;
+        case 'chicago': return product.chicago;
+        default: return product.total;
+    }
+}
+
+function filterAndRender() {
+    const query = searchInput.value.toLowerCase();
+    const category = categoryFilter.value;
+    const subcategory = subcategoryFilter.value;
+    
+    let filtered = [...inventoryData.tabs.inventory.products];
+    
+    // When a specific warehouse is selected (not "all"), only show items with stock > 0 at that location
+    if (currentLocation !== 'all') {
+        filtered = filtered.filter(p => getLocationQty(p, currentLocation) > 0);
+    }
+    
+    // Apply filters
+    if (category) {
+        filtered = filtered.filter(p => p.category === category);
+    }
+    
+    if (subcategory) {
+        filtered = filtered.filter(p => p.subcategory === subcategory);
+    }
+    
+    if (query) {
+        filtered = filtered.filter(p => 
+            p.sku.toLowerCase().includes(query) ||
+            (p.description && p.description.toLowerCase().includes(query)) ||
+            (p.category && p.category.toLowerCase().includes(query)) ||
+            (p.subcategory && p.subcategory.toLowerCase().includes(query))
+        );
+    }
+    
+    // Apply sorting
+    if (sortColumn) {
+        filtered.sort((a, b) => {
+            let aVal, bVal;
+            if (sortColumn === 'sku') {
+                aVal = a.sku;
+                bVal = b.sku;
+            } else {
+                aVal = a[sortColumn] || 0;
+                bVal = b[sortColumn] || 0;
+            }
+            
+            if (typeof aVal === 'string') {
+                return sortDirection === 'asc' ? aVal.localeCompare(bVal) : bVal.localeCompare(aVal);
+            }
+            return sortDirection === 'asc' ? aVal - bVal : bVal - aVal;
+        });
+    }
+    
+    renderTable(filtered, query);
+}
+
+function renderTable(products, query = '') {
+    let html = '';
+    let lastCategory = '';
+    let lastSubcategory = '';
+    
+    // Determine which column index to highlight
+    const highlightCol = {
+        'ontario': 'ontario',
+        'louisville': 'louisville',
+        'phoenix': 'phoenix',
+        'dallas': 'dallas',
+        'chicago': 'chicago'
+    }[currentLocation] || null;
+    
+    products.forEach(p => {
+        // Category header
+        if (p.category !== lastCategory) {
+            html += `<tr class="category-row"><td colspan="10">${p.category}</td></tr>`;
+            lastCategory = p.category;
+            lastSubcategory = '';
+        }
+        
+        // Subcategory header
+        if (p.subcategory && p.subcategory !== lastSubcategory) {
+            html += `<tr class="sub-category-row"><td colspan="10">${p.subcategory}</td></tr>`;
+            lastSubcategory = p.subcategory;
+        }
+        
+        const ontario = formatQty(p.ontario);
+        const louisville = formatQty(p.louisville);
+        const phoenix = formatQty(p.phoenix);
+        const dallas = formatQty(p.dallas);
+        const chicago = formatQty(p.chicago);
+        const total = formatQty(p.total, true);
+        
+        html += `<tr>
+            <td class="category"><span class="category-badge" title="${p.category}">${p.category ? p.category.split(' ').slice(0, 2).join(' ') : ''}</span></td>
+            <td class="sku">${highlightText(p.sku, query)}</td>
+            <td class="description" title="${p.description || ''}">${highlightText(p.description || '', query)}</td>
+            <td>${p.wattage || '-'}</td>
+            <td class="qty ${ontario.class}${highlightCol === 'ontario' ? ' highlighted' : ''}">${ontario.value}</td>
+            <td class="qty ${louisville.class}${highlightCol === 'louisville' ? ' highlighted' : ''}">${louisville.value}</td>
+            <td class="qty ${phoenix.class}${highlightCol === 'phoenix' ? ' highlighted' : ''}">${phoenix.value}</td>
+            <td class="qty ${dallas.class}${highlightCol === 'dallas' ? ' highlighted' : ''}">${dallas.value}</td>
+            <td class="qty ${chicago.class}${highlightCol === 'chicago' ? ' highlighted' : ''}">${chicago.value}</td>
+            <td class="qty total">${total.value}</td>
+        </tr>`;
+    });
+    
+    if (products.length === 0) {
+        html = '<tr><td colspan="10" class="no-results"><h3>No products found</h3><p>Try adjusting your search or filters</p></td></tr>';
+    }
+    
+    tableBody.innerHTML = html;
+    
+    // Update product count in stats
+    productCount.textContent = products.length.toLocaleString();
+}
+
+function switchLocation(location) {
+    currentLocation = location;
+    locationTabs.forEach(tab => {
+        tab.classList.toggle('active', tab.dataset.location === location);
+    });
+    
+    // Highlight the corresponding column header
+    const columnMap = {
+        'ontario': 4,
+        'louisville': 5,
+        'phoenix': 6,
+        'dallas': 7,
+        'chicago': 8
+    };
+    
+    // Remove all highlights from headers
+    document.querySelectorAll('.column-header th').forEach(th => th.classList.remove('highlighted'));
+    
+    // Add highlight to selected column header
+    if (columnMap[location]) {
+        const headers = document.querySelectorAll('.column-header th');
+        if (headers[columnMap[location]]) {
+            headers[columnMap[location]].classList.add('highlighted');
+        }
+    }
+    
+    filterAndRender();
+}
+
+function handleSort(column) {
+    if (sortColumn === column) {
+        sortDirection = sortDirection === 'asc' ? 'desc' : 'asc';
+    } else {
+        sortColumn = column;
+        sortDirection = 'asc';
+    }
+    
+    // Update sort icons
+    document.querySelectorAll('.column-header th').forEach(th => {
+        th.classList.remove('sorted');
+        const icon = th.querySelector('.sort-icon');
+        if (icon) icon.textContent = '↕';
+    });
+    
+    const activeHeader = document.querySelector(`th[data-sort="${column}"]`);
+    if (activeHeader) {
+        activeHeader.classList.add('sorted');
+        const icon = activeHeader.querySelector('.sort-icon');
+        if (icon) icon.textContent = sortDirection === 'asc' ? '↑' : '↓';
+    }
+    
+    filterAndRender();
+}
+
+// Event listeners
+searchInput.addEventListener('input', filterAndRender);
+categoryFilter.addEventListener('change', () => {
+    subcategoryFilter.value = ''; // Reset subcategory when category changes
+    filterAndRender();
+});
+subcategoryFilter.addEventListener('change', filterAndRender);
+
+locationTabs.forEach(tab => {
+    tab.addEventListener('click', () => switchLocation(tab.dataset.location));
+});
+
+document.querySelectorAll('.column-header th.sortable').forEach(th => {
+    th.addEventListener('click', () => handleSort(th.dataset.sort));
+});
+
+// Initialize
+loadData();
+</script>
+</body>
+</html>
