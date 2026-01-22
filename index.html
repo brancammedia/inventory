@@ -219,8 +219,9 @@ const inlineData = {"updated_at": "2026-01-21T19:29:58.120791+00:00", "updated_a
 
 async function loadData() {
     try {
-        // Using inline data for preview
-        inventoryData = inlineData;
+        // Fetch live data from JSON file
+        const response = await fetch("inventory_data.json");
+        inventoryData = response.ok ? await response.json() : inlineData;
         
         // Update timestamp
         updateTime.textContent = `Updated: ${inventoryData.updated_at_pacific}`;
