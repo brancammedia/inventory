@@ -2,7 +2,7 @@ name: Update Inventory Data
 
 on:
   schedule:
-    - cron: '30 15 * * *'
+    - cron: '30 12 * * *'
   workflow_dispatch:
 
 permissions:

@@ -2,7 +2,7 @@
 """
 Portor Inventory Update Script
 Pulls inventory data from Google Sheets and converts to JSON for the HTML frontend.
-Designed to run via GitHub Actions at 7:30 AM Pacific daily.
+Designed to run via GitHub Actions at 7:30 AM Eastern daily.
 """
 
 import csv
