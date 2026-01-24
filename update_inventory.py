@@ -9,7 +9,7 @@ import csv
 import json
 import urllib.request
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from io import StringIO
 
 # Google Sheet configuration
@@ -216,9 +216,14 @@ def main():
     """Main function to fetch and process inventory data."""
     print(f"Starting inventory update at {datetime.now(timezone.utc).isoformat()}")
     
+    # Convert to EST (UTC-5) for timestamp display
+    now_utc = datetime.now(timezone.utc)
+    est = timezone(timedelta(hours=-5))
+    now_est = now_utc.astimezone(est)
+
     all_data = {
-        'updated_at': datetime.now(timezone.utc).isoformat(),
-        'updated_at_pacific': datetime.now(timezone.utc).strftime('%B %d, %Y'),
+        'updated_at': now_utc.isoformat(),
+        'updated_at_formatted': now_est.strftime('%B %d, %Y at %I:%M %p EST'),
         'tabs': {}
     }
     
