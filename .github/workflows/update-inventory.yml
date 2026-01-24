@@ -1,8 +1,10 @@
+# Automated inventory update workflow
+# Schedule: 7:30 AM EST daily (12:30 UTC)
 name: Update Inventory Data
 
 on:
   schedule:
-    - cron: '30 12 * * *'
+    - cron: '30 12 * * *'  # 7:30 AM EST / 12:30 UTC
   workflow_dispatch:
 
 permissions:
