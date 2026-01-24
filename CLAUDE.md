@@ -58,6 +58,12 @@ gh api repos/brancammedia/inventory/actions/runs?per_page=1 --jq '.workflow_runs
 - Filter by category
 - Location tabs filter by warehouse
 - Mobile responsive
+- Full EST timestamp (date + time) matching pricing portal
+
+**Timestamp Format:**
+- Display: `"January 24, 2026 at 07:30 AM EST"`
+- Updated in both header subtitle and badge
+- Schedule re-enabled January 2026
 
 **Known Issues:**
 - Scheduled workflows may stop if repo inactive 60+ days
