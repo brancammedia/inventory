@@ -1,5 +1,6 @@
 # Automated inventory update workflow
 # Schedule: 7:30 AM EST daily (12:30 UTC)
+# Schedule re-enabled January 2026
 name: Update Inventory Data
 
 on:
