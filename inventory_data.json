@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-06T13:52:32.960629+00:00",
-  "updated_at_formatted": "April 06, 2026 at 08:52 AM EST",
+  "updated_at": "2026-04-07T14:08:36.712584+00:00",
+  "updated_at_formatted": "April 07, 2026 at 09:08 AM EST",
   "tabs": {
     "inventory": {
       "name": "Inventory List",
@@ -15,9 +15,9 @@
           "louisville": 33,
           "phoenix": 39,
           "dallas": 19,
-          "chicago": 0,
-          "total": 47,
-          "notes": "546"
+          "chicago": 39,
+          "total": 538,
+          "notes": ""
         },
         {
           "sku": "PT-AL2N-150-3CP-W",
@@ -30,8 +30,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "161"
+          "total": 161,
+          "notes": ""
         },
         {
           "sku": "PT-AL2N-300-3CP",
@@ -43,9 +43,9 @@
           "louisville": 15,
           "phoenix": 48,
           "dallas": 0,
-          "chicago": 0,
-          "total": 42,
-          "notes": "251"
+          "chicago": 40,
+          "total": 249,
+          "notes": ""
         },
         {
           "sku": "PT-AL2N-300-3CP-W",
@@ -58,8 +58,8 @@
           "phoenix": 0,
           "dallas": 16,
           "chicago": 0,
-          "total": 0,
-          "notes": "443"
+          "total": 443,
+          "notes": ""
         },
         {
           "sku": "PT-AL2-375W-50K",
@@ -72,8 +72,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "102"
+          "total": 102,
+          "notes": ""
         },
         {
           "sku": "PT-AL2N-375W-50K",
@@ -86,8 +86,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "191"
+          "total": 191,
+          "notes": ""
         },
         {
           "sku": "PT-ALE-150-3CP",
@@ -100,8 +100,8 @@
           "phoenix": 13,
           "dallas": 50,
           "chicago": 0,
-          "total": 0,
-          "notes": "239"
+          "total": 239,
+          "notes": ""
         },
         {
           "sku": "PT-ALE-300-3CP",
@@ -109,13 +109,13 @@
           "wattage": "200/240/300",
           "category": "Area Light",
           "subcategory": "Area Light Econ",
-          "ontario": 243,
+          "ontario": 209,
           "louisville": 0,
           "phoenix": 22,
           "dallas": 50,
           "chicago": 0,
-          "total": 0,
-          "notes": "315"
+          "total": 281,
+          "notes": ""
         },
         {
           "sku": "PC",
@@ -123,13 +123,13 @@
           "wattage": "N/A",
           "category": "Area Light",
           "subcategory": "Photocell",
-          "ontario": 699,
+          "ontario": 697,
           "louisville": 127,
           "phoenix": 38,
           "dallas": 37,
-          "chicago": 0,
-          "total": 99,
-          "notes": "1,000"
+          "chicago": 99,
+          "total": 998,
+          "notes": ""
         },
         {
           "sku": "PC-HV",
@@ -141,9 +141,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 40,
-          "notes": "444"
+          "chicago": 40,
+          "total": 444,
+          "notes": ""
         },
         {
           "sku": "PC-N",
@@ -156,8 +156,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "454"
+          "total": 454,
+          "notes": ""
         },
         {
           "sku": "PT-AL2-D-150W-HV",
@@ -170,8 +170,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "220"
+          "total": 220,
+          "notes": ""
         },
         {
           "sku": "PT-AL2-D-240W-HV",
@@ -184,8 +184,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "7"
+          "total": 7,
+          "notes": ""
         },
         {
           "sku": "PT-AL2-D-320W-HV",
@@ -198,8 +198,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "5"
+          "total": 5,
+          "notes": ""
         },
         {
           "sku": "SAM-AL2",
@@ -207,13 +207,13 @@
           "wattage": "N/A",
           "category": "Area Light",
           "subcategory": "Area Light Mounting",
-          "ontario": 354,
+          "ontario": 353,
           "louisville": 25,
           "phoenix": 24,
           "dallas": 47,
-          "chicago": 0,
-          "total": 42,
-          "notes": "492"
+          "chicago": 42,
+          "total": 491,
+          "notes": ""
         },
         {
           "sku": "SF-AL2",
@@ -225,9 +225,9 @@
           "louisville": 35,
           "phoenix": 20,
           "dallas": 0,
-          "chicago": 0,
-          "total": 50,
-          "notes": "802"
+          "chicago": 48,
+          "total": 800,
+          "notes": ""
         },
         {
           "sku": "SPM-AL2",
@@ -235,13 +235,13 @@
           "wattage": "N/A",
           "category": "Area Light",
           "subcategory": "Area Light Mounting",
-          "ontario": 379,
+          "ontario": 366,
           "louisville": 0,
           "phoenix": 25,
           "dallas": 17,
-          "chicago": 0,
-          "total": 29,
-          "notes": "450"
+          "chicago": 29,
+          "total": 437,
+          "notes": ""
         },
         {
           "sku": "SPM-ALE",
@@ -255,7 +255,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "TM-AL2",
@@ -267,9 +267,9 @@
           "louisville": 114,
           "phoenix": 21,
           "dallas": 49,
-          "chicago": 0,
-          "total": 44,
-          "notes": "1,387"
+          "chicago": 44,
+          "total": 1387,
+          "notes": ""
         },
         {
           "sku": "TM-ALE",
@@ -277,13 +277,13 @@
           "wattage": "N/A",
           "category": "Area Light",
           "subcategory": "Area Light Mounting",
-          "ontario": 94,
+          "ontario": 74,
           "louisville": 20,
           "phoenix": 22,
           "dallas": 50,
           "chicago": 0,
-          "total": 0,
-          "notes": "186"
+          "total": 166,
+          "notes": ""
         },
         {
           "sku": "SAM-AL2-W",
@@ -296,8 +296,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "259"
+          "total": 259,
+          "notes": ""
         },
         {
           "sku": "SF-AL2-W",
@@ -309,9 +309,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 23,
-          "notes": "341"
+          "chicago": 23,
+          "total": 341,
+          "notes": ""
         },
         {
           "sku": "SPM-AL2-W",
@@ -323,9 +323,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 14,
-          "chicago": 0,
-          "total": 49,
-          "notes": "159"
+          "chicago": 49,
+          "total": 159,
+          "notes": ""
         },
         {
           "sku": "TM-AL2-W",
@@ -337,9 +337,9 @@
           "louisville": 23,
           "phoenix": 0,
           "dallas": 20,
-          "chicago": 0,
-          "total": 30,
-          "notes": "432"
+          "chicago": 30,
+          "total": 432,
+          "notes": ""
         },
         {
           "sku": "UB-AL2-1015",
@@ -351,9 +351,9 @@
           "louisville": 22,
           "phoenix": 0,
           "dallas": 26,
-          "chicago": 0,
-          "total": 26,
-          "notes": "327"
+          "chicago": 58,
+          "total": 359,
+          "notes": ""
         },
         {
           "sku": "UB-AL2-2037",
@@ -366,8 +366,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "190"
+          "total": 190,
+          "notes": ""
         },
         {
           "sku": "UB-AL2-1015-W",
@@ -379,9 +379,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 170,
-          "notes": "386"
+          "chicago": 170,
+          "total": 386,
+          "notes": ""
         },
         {
           "sku": "UB-AL2-2037-W",
@@ -394,8 +394,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "580"
+          "total": 580,
+          "notes": ""
         },
         {
           "sku": "UB-ALE-150",
@@ -408,8 +408,8 @@
           "phoenix": 10,
           "dallas": 50,
           "chicago": 0,
-          "total": 0,
-          "notes": "247"
+          "total": 247,
+          "notes": ""
         },
         {
           "sku": "UB-ALE-300",
@@ -422,8 +422,8 @@
           "phoenix": 10,
           "dallas": 50,
           "chicago": 0,
-          "total": 0,
-          "notes": "171"
+          "total": 171,
+          "notes": ""
         },
         {
           "sku": "MOD-3K-AL2-150W",
@@ -436,8 +436,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "483"
+          "total": 483,
+          "notes": ""
         },
         {
           "sku": "MOD-3K-AL2-200W",
@@ -450,8 +450,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "494"
+          "total": 494,
+          "notes": ""
         },
         {
           "sku": "MOD-3K-AL2-300W",
@@ -464,8 +464,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "500"
+          "total": 500,
+          "notes": ""
         },
         {
           "sku": "MOD-4K-AL2-150W",
@@ -478,8 +478,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "599"
+          "total": 599,
+          "notes": ""
         },
         {
           "sku": "MOD-4K-AL2-200W",
@@ -492,8 +492,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "361"
+          "total": 361,
+          "notes": ""
         },
         {
           "sku": "MOD-4K-AL2-300W",
@@ -506,8 +506,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "463"
+          "total": 463,
+          "notes": ""
         },
         {
           "sku": "D-AL2-150W-HV-NI",
@@ -520,8 +520,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "421"
+          "total": 421,
+          "notes": ""
         },
         {
           "sku": "D-AL2-240W-HV-NI",
@@ -535,7 +535,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "D-AL2-300W-HV-NI",
@@ -543,13 +543,13 @@
           "wattage": "300",
           "category": "Tube",
           "subcategory": "Non-Isolated Drivers",
-          "ontario": 481,
+          "ontario": 480,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "481"
+          "total": 480,
+          "notes": ""
         },
         {
           "sku": "T4-AL2-1015",
@@ -562,8 +562,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "475"
+          "total": 475,
+          "notes": ""
         },
         {
           "sku": "T4-AL2-2037",
@@ -576,8 +576,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "319"
+          "total": 319,
+          "notes": ""
         },
         {
           "sku": "T5-AL2-1015",
@@ -590,8 +590,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "404"
+          "total": 404,
+          "notes": ""
         },
         {
           "sku": "T5-AL2-2037",
@@ -604,8 +604,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "150"
+          "total": 150,
+          "notes": ""
         },
         {
           "sku": "T4-ALE-150",
@@ -618,8 +618,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "226"
+          "total": 226,
+          "notes": ""
         },
         {
           "sku": "T4-ALE-300",
@@ -632,8 +632,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "264"
+          "total": 264,
+          "notes": ""
         },
         {
           "sku": "T5-ALE-150",
@@ -646,8 +646,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "244"
+          "total": 244,
+          "notes": ""
         },
         {
           "sku": "T5-ALE-300",
@@ -660,8 +660,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "267"
+          "total": 267,
+          "notes": ""
         },
         {
           "sku": "T4-AL2N-150-3CP",
@@ -674,8 +674,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "259"
+          "total": 259,
+          "notes": ""
         },
         {
           "sku": "T4-AL2N-300-3CP",
@@ -688,8 +688,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "286"
+          "total": 286,
+          "notes": ""
         },
         {
           "sku": "T5-AL2N-150-3CP",
@@ -702,8 +702,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "295"
+          "total": 295,
+          "notes": ""
         },
         {
           "sku": "T5-AL2N-300-3CP",
@@ -716,8 +716,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "278"
+          "total": 278,
+          "notes": ""
         },
         {
           "sku": "SHD-AL2-1015",
@@ -730,8 +730,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "121"
+          "total": 121,
+          "notes": ""
         },
         {
           "sku": "SHD-AL2-2037",
@@ -739,13 +739,13 @@
           "wattage": "N/A",
           "category": "Area Light",
           "subcategory": "AL2 Shield",
-          "ontario": 77,
+          "ontario": 73,
           "louisville": 24,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "101"
+          "total": 97,
+          "notes": ""
         },
         {
           "sku": "SHD-AL2-1015-W",
@@ -758,8 +758,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "174"
+          "total": 174,
+          "notes": ""
         },
         {
           "sku": "SHD-AL2-2037-W",
@@ -772,8 +772,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "199"
+          "total": 199,
+          "notes": ""
         },
         {
           "sku": "PT-ABL-R-BODY",
@@ -781,13 +781,13 @@
           "wattage": "N/A",
           "category": "Bollard",
           "subcategory": "Body",
-          "ontario": 132,
+          "ontario": 133,
           "louisville": 7,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "139"
+          "total": 140,
+          "notes": ""
         },
         {
           "sku": "PT-ABL-R-HEAD-DTP-C",
@@ -799,9 +799,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 8,
-          "notes": "348"
+          "chicago": 8,
+          "total": 348,
+          "notes": ""
         },
         {
           "sku": "PT-ABL-R-HEAD-DTP-L",
@@ -813,9 +813,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 8,
-          "notes": "257"
+          "chicago": 8,
+          "total": 257,
+          "notes": ""
         },
         {
           "sku": "PT-ABL-R-HEAD-PTP",
@@ -827,9 +827,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 8,
-          "notes": "179"
+          "chicago": 8,
+          "total": 179,
+          "notes": ""
         },
         {
           "sku": "PT-ABL-R-HEAD-BTP-C",
@@ -837,13 +837,13 @@
           "wattage": "14/19/24W",
           "category": "Bollard",
           "subcategory": "Head Options",
-          "ontario": 246,
+          "ontario": 247,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "246"
+          "total": 247,
+          "notes": ""
         },
         {
           "sku": "ABL-R-SHLD-180",
@@ -856,8 +856,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "254"
+          "total": 254,
+          "notes": ""
         },
         {
           "sku": "PT-BL-LW-3CP",
@@ -870,8 +870,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "419"
+          "total": 419,
+          "notes": ""
         },
         {
           "sku": "PT-BL-HW-3CP",
@@ -884,8 +884,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "512"
+          "total": 512,
+          "notes": ""
         },
         {
           "sku": "ARM-BL",
@@ -898,8 +898,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "116"
+          "total": 116,
+          "notes": ""
         },
         {
           "sku": "PT-CAS1-40W-3CCT",
@@ -912,8 +912,8 @@
           "phoenix": 20,
           "dallas": 16,
           "chicago": 0,
-          "total": 0,
-          "notes": "36"
+          "total": 36,
+          "notes": ""
         },
         {
           "sku": "PT-CAS1-75W-3CCT",
@@ -927,7 +927,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-CAS1-LW-3CP",
@@ -940,8 +940,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "189"
+          "total": 189,
+          "notes": ""
         },
         {
           "sku": "PT-CAS1-MW-3CP",
@@ -954,8 +954,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "282"
+          "total": 282,
+          "notes": ""
         },
         {
           "sku": "PT-CAT2-LW-3CP",
@@ -968,8 +968,8 @@
           "phoenix": 0,
           "dallas": 20,
           "chicago": 0,
-          "total": 0,
-          "notes": "493"
+          "total": 493,
+          "notes": ""
         },
         {
           "sku": "PT-CAT2-HW-3CP",
@@ -982,8 +982,8 @@
           "phoenix": 2,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "2"
+          "total": 2,
+          "notes": ""
         },
         {
           "sku": "MS-CAS",
@@ -997,7 +997,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-CBL2-36W-50K",
@@ -1010,8 +1010,8 @@
           "phoenix": 24,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "198"
+          "total": 198,
+          "notes": ""
         },
         {
           "sku": "PT-CBL3-36W-50K",
@@ -1024,8 +1024,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "242"
+          "total": 242,
+          "notes": ""
         },
         {
           "sku": "PT-CBL3-45W-50K",
@@ -1038,8 +1038,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "246"
+          "total": 246,
+          "notes": ""
         },
         {
           "sku": "PT-CBL2-75W-50K",
@@ -1052,8 +1052,8 @@
           "phoenix": 18,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "221"
+          "total": 221,
+          "notes": ""
         },
         {
           "sku": "PT-CBL2-100W-50K",
@@ -1066,8 +1066,8 @@
           "phoenix": 12,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "517"
+          "total": 517,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-B-4I-10-5C3P-2",
@@ -1075,13 +1075,13 @@
           "wattage": "6/8/10",
           "category": "Downlights",
           "subcategory": "5C3P Retrofit Downlight",
-          "ontario": 3387,
+          "ontario": 2787,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "3,387"
+          "total": 2787,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-S-4I-10-5C3P-2",
@@ -1094,8 +1094,8 @@
           "phoenix": 180,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "2,966"
+          "total": 2966,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-B-6I-14-5C3P-2",
@@ -1103,13 +1103,13 @@
           "wattage": "7/10/14",
           "category": "Downlights",
           "subcategory": "5C3P Retrofit Downlight",
-          "ontario": 13922,
+          "ontario": 13850,
           "louisville": 0,
           "phoenix": 241,
           "dallas": 2158,
           "chicago": 0,
-          "total": 0,
-          "notes": "16,321"
+          "total": 16249,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-S-6I-14-5C3P-2",
@@ -1117,13 +1117,13 @@
           "wattage": "7/10/14",
           "category": "Downlights",
           "subcategory": "5C3P Retrofit Downlight",
-          "ontario": 3691,
+          "ontario": 3043,
           "louisville": 0,
           "phoenix": 144,
           "dallas": 670,
           "chicago": 0,
-          "total": 0,
-          "notes": "4,505"
+          "total": 3857,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-C-4I-10W-5CCT",
@@ -1136,8 +1136,8 @@
           "phoenix": 0,
           "dallas": 95,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,122"
+          "total": 1122,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-C-6I-15W-5CCT",
@@ -1150,8 +1150,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "36"
+          "total": 36,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-C-4I-10W-5CCT-277",
@@ -1164,8 +1164,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "234"
+          "total": 234,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-C-6I-15W-5CCT-277",
@@ -1179,7 +1179,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-DLR-C-6I-15W-5CCT-2",
@@ -1192,8 +1192,8 @@
           "phoenix": 0,
           "dallas": 72,
           "chicago": 0,
-          "total": 0,
-          "notes": "400"
+          "total": 400,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-C-6I-15W-5CCT-277-2",
@@ -1206,8 +1206,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "740"
+          "total": 740,
+          "notes": ""
         },
         {
           "sku": "PT-DL31-BL-4I-10W-5CCT",
@@ -1220,8 +1220,8 @@
           "phoenix": 0,
           "dallas": 23,
           "chicago": 0,
-          "total": 0,
-          "notes": "708"
+          "total": 708,
+          "notes": ""
         },
         {
           "sku": "PT-DL31-BL-6I-12W-5CCT",
@@ -1234,8 +1234,8 @@
           "phoenix": 0,
           "dallas": 23,
           "chicago": 0,
-          "total": 0,
-          "notes": "786"
+          "total": 786,
+          "notes": ""
         },
         {
           "sku": "PT-DL31-EDL-4I-10W-5CCT",
@@ -1248,8 +1248,8 @@
           "phoenix": 0,
           "dallas": 24,
           "chicago": 0,
-          "total": 0,
-          "notes": "637"
+          "total": 637,
+          "notes": ""
         },
         {
           "sku": "PT-DL31-EDL-6I-12W-5CCT",
@@ -1262,8 +1262,8 @@
           "phoenix": 0,
           "dallas": 24,
           "chicago": 0,
-          "total": 0,
-          "notes": "995"
+          "total": 995,
+          "notes": ""
         },
         {
           "sku": "PT-DLS-21-R-4I-10W-5CCT",
@@ -1276,8 +1276,8 @@
           "phoenix": 0,
           "dallas": 29,
           "chicago": 0,
-          "total": 0,
-          "notes": "2,726"
+          "total": 2726,
+          "notes": ""
         },
         {
           "sku": "PT-DLS-21-R-6I-14W-5CCT",
@@ -1290,8 +1290,8 @@
           "phoenix": 0,
           "dallas": 23,
           "chicago": 0,
-          "total": 0,
-          "notes": "2,545"
+          "total": 2545,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-4I-BK",
@@ -1304,8 +1304,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "516"
+          "total": 516,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-4I-BN",
@@ -1318,8 +1318,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,009"
+          "total": 1009,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-4I-BZ",
@@ -1332,8 +1332,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "706"
+          "total": 706,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-6I-BK",
@@ -1346,8 +1346,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "258"
+          "total": 258,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-6I-BN",
@@ -1360,8 +1360,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,453"
+          "total": 1453,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-6I-BZ",
@@ -1374,8 +1374,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "637"
+          "total": 637,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-S-4I-BK",
@@ -1388,8 +1388,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "778"
+          "total": 778,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-S-4I-BN",
@@ -1402,8 +1402,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "965"
+          "total": 965,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-S-4I-BZ",
@@ -1416,8 +1416,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "951"
+          "total": 951,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-S-6I-BK",
@@ -1430,8 +1430,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "495"
+          "total": 495,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-S-6I-BN",
@@ -1444,8 +1444,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "978"
+          "total": 978,
+          "notes": ""
         },
         {
           "sku": "TR-DLR-S-6I-BZ",
@@ -1458,8 +1458,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "978"
+          "total": 978,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-G-4I-10W-5CCT",
@@ -1472,8 +1472,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "8"
+          "total": 8,
+          "notes": ""
         },
         {
           "sku": "PT-DLR-G-6I-16W-5CCT",
@@ -1486,8 +1486,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "50"
+          "total": 50,
+          "notes": ""
         },
         {
           "sku": "PT-DLS2-R-4I-9W-5CCT",
@@ -1500,8 +1500,8 @@
           "phoenix": 13,
           "dallas": 23,
           "chicago": 0,
-          "total": 0,
-          "notes": "78"
+          "total": 78,
+          "notes": ""
         },
         {
           "sku": "PT-DLS2-R-4I-9W-5CCT-277",
@@ -1514,8 +1514,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,469"
+          "total": 1469,
+          "notes": ""
         },
         {
           "sku": "PT-DLS2-R-4I-9W-5CCT-BK",
@@ -1528,8 +1528,8 @@
           "phoenix": 0,
           "dallas": 20,
           "chicago": 0,
-          "total": 0,
-          "notes": "290"
+          "total": 290,
+          "notes": ""
         },
         {
           "sku": "PT-DLS2-S-4I-9W-5CCT",
@@ -1542,8 +1542,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "781"
+          "total": 781,
+          "notes": ""
         },
         {
           "sku": "PT-DLS2-R-6I-15W-5CCT",
@@ -1556,8 +1556,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "9"
+          "total": 9,
+          "notes": ""
         },
         {
           "sku": "PT-DLS2-R-6I-15W-5CCT-BK",
@@ -1570,8 +1570,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "6"
+          "total": 6,
+          "notes": ""
         },
         {
           "sku": "PT-DLS2-S-6I-12W-5CCT",
@@ -1584,8 +1584,8 @@
           "phoenix": 0,
           "dallas": 47,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,113"
+          "total": 1113,
+          "notes": ""
         },
         {
           "sku": "PT-DLS2-R-6I-15W-5CCT-277",
@@ -1598,8 +1598,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "48"
+          "total": 48,
+          "notes": ""
         },
         {
           "sku": "PT-DLS2-R-8I-18W-5CCT",
@@ -1612,8 +1612,8 @@
           "phoenix": 0,
           "dallas": 43,
           "chicago": 0,
-          "total": 0,
-          "notes": "504"
+          "total": 504,
+          "notes": ""
         },
         {
           "sku": "PT-DLS-R-4I-8W-5CCT-3",
@@ -1621,13 +1621,13 @@
           "wattage": "8",
           "category": "Downlights",
           "subcategory": "Slim Downlight",
-          "ontario": 3053,
+          "ontario": 3038,
           "louisville": 0,
           "phoenix": 165,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "3,218"
+          "total": 3203,
+          "notes": ""
         },
         {
           "sku": "PT-DLS-R-6I-12W-5CCT-3",
@@ -1635,13 +1635,13 @@
           "wattage": "12",
           "category": "Downlights",
           "subcategory": "Slim Downlight",
-          "ontario": 1225,
+          "ontario": 1105,
           "louisville": 0,
           "phoenix": 138,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,363"
+          "total": 1243,
+          "notes": ""
         },
         {
           "sku": "PT-DLS-R-4I-8W-5CCT-277-3",
@@ -1654,8 +1654,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "424"
+          "total": 424,
+          "notes": ""
         },
         {
           "sku": "PT-DLS-R-6I-12W-5CCT-277-3",
@@ -1668,8 +1668,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "464"
+          "total": 464,
+          "notes": ""
         },
         {
           "sku": "PT-DLS-R-6I-12W-5CCT-3-BK",
@@ -1682,8 +1682,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "849"
+          "total": 849,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM-R-7I-15W-5CCT-3",
@@ -1697,7 +1697,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-DLSM-R-9I-18W-5CCT-3",
@@ -1710,8 +1710,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "195"
+          "total": 195,
+          "notes": ""
         },
         {
           "sku": "PT-DLSB-R-4I-9W-5CCT-3",
@@ -1724,8 +1724,8 @@
           "phoenix": 48,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "826"
+          "total": 826,
+          "notes": ""
         },
         {
           "sku": "PT-DLSB-R-6I-12W-5CCT-3",
@@ -1738,8 +1738,8 @@
           "phoenix": 100,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "472"
+          "total": 472,
+          "notes": ""
         },
         {
           "sku": "PT-DLS-R-8I-17W-5CCT-3",
@@ -1752,8 +1752,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "504"
+          "total": 504,
+          "notes": ""
         },
         {
           "sku": "PT-DLSB-R-4I-12W-5CCT",
@@ -1766,8 +1766,8 @@
           "phoenix": 0,
           "dallas": 89,
           "chicago": 0,
-          "total": 0,
-          "notes": "342"
+          "total": 342,
+          "notes": ""
         },
         {
           "sku": "PT-DLSB-R-6I-15W-5CCT",
@@ -1780,8 +1780,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "17"
+          "total": 17,
+          "notes": ""
         },
         {
           "sku": "PT-DLSB2-R-4I-9W-5CCT",
@@ -1794,8 +1794,8 @@
           "phoenix": 60,
           "dallas": 63,
           "chicago": 0,
-          "total": 0,
-          "notes": "143"
+          "total": 143,
+          "notes": ""
         },
         {
           "sku": "PT-DLSB2-R-6I-12W-5CCT",
@@ -1808,8 +1808,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "10"
+          "total": 10,
+          "notes": ""
         },
         {
           "sku": "RP-DLS-R-4I",
@@ -1822,8 +1822,8 @@
           "phoenix": 109,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,513"
+          "total": 1513,
+          "notes": ""
         },
         {
           "sku": "RP-DLS-R-6I",
@@ -1836,8 +1836,8 @@
           "phoenix": 183,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,542"
+          "total": 1542,
+          "notes": ""
         },
         {
           "sku": "RP-DLS-R-8I",
@@ -1850,8 +1850,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "948"
+          "total": 948,
+          "notes": ""
         },
         {
           "sku": "RP-UNI-R-46",
@@ -1864,8 +1864,8 @@
           "phoenix": 392,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "967"
+          "total": 967,
+          "notes": ""
         },
         {
           "sku": "UNI-DLS-R",
@@ -1878,8 +1878,8 @@
           "phoenix": 250,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,065"
+          "total": 1065,
+          "notes": ""
         },
         {
           "sku": "PT-DDL2-4I-10W-5CCT",
@@ -1892,8 +1892,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "89"
+          "total": 89,
+          "notes": ""
         },
         {
           "sku": "PT-DDL2-6I-15W-5CCT",
@@ -1906,8 +1906,8 @@
           "phoenix": 0,
           "dallas": 5,
           "chicago": 0,
-          "total": 0,
-          "notes": "23"
+          "total": 23,
+          "notes": ""
         },
         {
           "sku": "PT-DDL2-8I-18W-5CCT",
@@ -1920,8 +1920,8 @@
           "phoenix": 0,
           "dallas": 22,
           "chicago": 0,
-          "total": 0,
-          "notes": "172"
+          "total": 172,
+          "notes": ""
         },
         {
           "sku": "PT-DDL2-4I-10W-5CCT-BULK24",
@@ -1934,8 +1934,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "144"
+          "total": 144,
+          "notes": ""
         },
         {
           "sku": "PT-DDL2-6I-15W-5CCT-BULK24",
@@ -1948,8 +1948,8 @@
           "phoenix": 0,
           "dallas": 96,
           "chicago": 0,
-          "total": 0,
-          "notes": "184"
+          "total": 184,
+          "notes": ""
         },
         {
           "sku": "PT-DDL-4I-7W-5CCT-3",
@@ -1962,8 +1962,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "3,461"
+          "total": 3461,
+          "notes": ""
         },
         {
           "sku": "PT-DDL-6I-12W-5CCT-3",
@@ -1976,8 +1976,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,474"
+          "total": 1474,
+          "notes": ""
         },
         {
           "sku": "PT-DDL-8I-15W-5CCT-3",
@@ -1990,8 +1990,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "464"
+          "total": 464,
+          "notes": ""
         },
         {
           "sku": "PT-DDL-4I-7W-5CCT-BULK24-3",
@@ -2004,8 +2004,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "3,704"
+          "total": 3704,
+          "notes": ""
         },
         {
           "sku": "PT-DDL-6I-12W-5CCT-BULK24-3",
@@ -2018,8 +2018,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "10,617"
+          "total": 10617,
+          "notes": ""
         },
         {
           "sku": "PT-DMS-4I-10W-5CCT",
@@ -2032,8 +2032,8 @@
           "phoenix": 0,
           "dallas": 3,
           "chicago": 0,
-          "total": 0,
-          "notes": "846"
+          "total": 846,
+          "notes": ""
         },
         {
           "sku": "PT-DMS-6I-15W-5CCT",
@@ -2046,8 +2046,8 @@
           "phoenix": 62,
           "dallas": 112,
           "chicago": 0,
-          "total": 0,
-          "notes": "407"
+          "total": 407,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM2-R-5I-10W-5CCT",
@@ -2060,8 +2060,8 @@
           "phoenix": 0,
           "dallas": 137,
           "chicago": 0,
-          "total": 0,
-          "notes": "3,210"
+          "total": 3210,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM2-R-7I-15W-5CCT",
@@ -2074,8 +2074,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1"
+          "total": 1,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM2-R-9I-18W-5CCT",
@@ -2088,8 +2088,8 @@
           "phoenix": 0,
           "dallas": 78,
           "chicago": 0,
-          "total": 0,
-          "notes": "149"
+          "total": 149,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM2-R-11I-24W-5CCT",
@@ -2102,8 +2102,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,032"
+          "total": 1032,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM2-R-12I-22W-5CCT",
@@ -2116,8 +2116,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "16"
+          "total": 16,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM2-R-13I-24W-5CCT",
@@ -2131,7 +2131,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-DLSM-R-7I-15W-3CCT-EM",
@@ -2144,8 +2144,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "333"
+          "total": 333,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM2-R-7I-15W-5CCT-EM",
@@ -2158,8 +2158,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "804"
+          "total": 804,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM2-S-7I-15W-5CCT",
@@ -2172,8 +2172,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "958"
+          "total": 958,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM2-S-9I-18W-5CCT",
@@ -2186,8 +2186,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "475"
+          "total": 475,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM2-S-12I-22W-5CCT",
@@ -2200,8 +2200,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "212"
+          "total": 212,
+          "notes": ""
         },
         {
           "sku": "TRR-SM2-5I-BK",
@@ -2214,8 +2214,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "945"
+          "total": 945,
+          "notes": ""
         },
         {
           "sku": "TRR-SM2-5I-BZ",
@@ -2228,8 +2228,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "952"
+          "total": 952,
+          "notes": ""
         },
         {
           "sku": "TRR-SM2-5I-BN",
@@ -2242,8 +2242,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "973"
+          "total": 973,
+          "notes": ""
         },
         {
           "sku": "TRR-SM2-7I-BK",
@@ -2256,8 +2256,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "825"
+          "total": 825,
+          "notes": ""
         },
         {
           "sku": "TRR-SM2-7I-BZ",
@@ -2270,8 +2270,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "964"
+          "total": 964,
+          "notes": ""
         },
         {
           "sku": "TRR-SM2-7I-BN",
@@ -2284,8 +2284,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "838"
+          "total": 838,
+          "notes": ""
         },
         {
           "sku": "TRR-SM2-9I-BK",
@@ -2298,8 +2298,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "887"
+          "total": 887,
+          "notes": ""
         },
         {
           "sku": "TRR-SM2-9I-BZ",
@@ -2312,8 +2312,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "966"
+          "total": 966,
+          "notes": ""
         },
         {
           "sku": "TRR-SM2-9I-BN",
@@ -2326,8 +2326,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "740"
+          "total": 740,
+          "notes": ""
         },
         {
           "sku": "TRR-SM-12I-BK",
@@ -2340,8 +2340,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "530"
+          "total": 530,
+          "notes": ""
         },
         {
           "sku": "TRR-SM-12I-BN",
@@ -2354,8 +2354,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "499"
+          "total": 499,
+          "notes": ""
         },
         {
           "sku": "TRR-SM-12I-BZ",
@@ -2368,8 +2368,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "860"
+          "total": 860,
+          "notes": ""
         },
         {
           "sku": "PT-DLSM-S-5l-10W-3CCT",
@@ -2383,7 +2383,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "TRS-SM-5I-BK",
@@ -2396,8 +2396,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "574"
+          "total": 574,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-5I-BN",
@@ -2410,8 +2410,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "670"
+          "total": 670,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-5I-BZ",
@@ -2424,8 +2424,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "646"
+          "total": 646,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-7I-BK",
@@ -2438,8 +2438,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "556"
+          "total": 556,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-7I-BN",
@@ -2452,8 +2452,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "632"
+          "total": 632,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-7I-BZ",
@@ -2466,8 +2466,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "678"
+          "total": 678,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-9I-BK",
@@ -2480,8 +2480,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "946"
+          "total": 946,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-9I-BN",
@@ -2494,8 +2494,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,053"
+          "total": 1053,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-9I-BZ",
@@ -2508,8 +2508,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,030"
+          "total": 1030,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-12I-BK",
@@ -2522,8 +2522,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "481"
+          "total": 481,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-12I-BN",
@@ -2536,8 +2536,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "496"
+          "total": 496,
+          "notes": ""
         },
         {
           "sku": "TRS-SM-12I-BZ",
@@ -2550,8 +2550,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "506"
+          "total": 506,
+          "notes": ""
         },
         {
           "sku": "PT-DLJ-B-4I-10W-5CCT",
@@ -2564,8 +2564,8 @@
           "phoenix": 0,
           "dallas": 47,
           "chicago": 0,
-          "total": 0,
-          "notes": "3,485"
+          "total": 3485,
+          "notes": ""
         },
         {
           "sku": "PT-DLJ-B-6I-15W-5CCT",
@@ -2573,13 +2573,13 @@
           "wattage": "15",
           "category": "Downlights",
           "subcategory": "DLJ",
-          "ontario": 5950,
+          "ontario": 5940,
           "louisville": 108,
           "phoenix": 0,
           "dallas": 47,
           "chicago": 0,
-          "total": 0,
-          "notes": "6,105"
+          "total": 6095,
+          "notes": ""
         },
         {
           "sku": "PT-CDL2-4I-5C3P",
@@ -2592,8 +2592,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "160"
+          "total": 160,
+          "notes": ""
         },
         {
           "sku": "PT-CDL2-6I-5C3P",
@@ -2606,8 +2606,8 @@
           "phoenix": 0,
           "dallas": 4,
           "chicago": 0,
-          "total": 0,
-          "notes": "6"
+          "total": 6,
+          "notes": ""
         },
         {
           "sku": "PT-CDL2-8I-5C3P",
@@ -2621,7 +2621,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-CDL2-10I-5C3P",
@@ -2633,9 +2633,9 @@
           "louisville": 123,
           "phoenix": 0,
           "dallas": 81,
-          "chicago": 0,
-          "total": 42,
-          "notes": "246"
+          "chicago": 42,
+          "total": 246,
+          "notes": ""
         },
         {
           "sku": "PT-CDL-4I-12-5C3P-3",
@@ -2648,8 +2648,8 @@
           "phoenix": 96,
           "dallas": 125,
           "chicago": 0,
-          "total": 0,
-          "notes": "434"
+          "total": 434,
+          "notes": ""
         },
         {
           "sku": "PT-CDL-6I-22-5C3P-3",
@@ -2657,13 +2657,13 @@
           "wattage": "12/17/22",
           "category": "Downlights",
           "subcategory": "CDL3",
-          "ontario": 1576,
+          "ontario": 1468,
           "louisville": 0,
           "phoenix": 200,
           "dallas": 198,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,974"
+          "total": 1866,
+          "notes": ""
         },
         {
           "sku": "PT-CDL-8I-30-5C3P-3",
@@ -2671,13 +2671,13 @@
           "wattage": "17/24/30",
           "category": "Downlights",
           "subcategory": "CDL3",
-          "ontario": 1577,
+          "ontario": 1560,
           "louisville": 0,
           "phoenix": 0,
-          "dallas": 46,
+          "dallas": 16,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,623"
+          "total": 1576,
+          "notes": ""
         },
         {
           "sku": "PT-CDL-10I-38-5C3P-3",
@@ -2685,13 +2685,13 @@
           "wattage": "22/30/38",
           "category": "Downlights",
           "subcategory": "CDL3",
-          "ontario": 2,
+          "ontario": 0,
           "louisville": 0,
           "phoenix": 5,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "7"
+          "total": 5,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-3-4I-BK",
@@ -2705,7 +2705,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-4I-BK",
@@ -2718,8 +2718,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "289"
+          "total": 289,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-4I-BN",
@@ -2732,8 +2732,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "420"
+          "total": 420,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-4I-BZ",
@@ -2746,8 +2746,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "496"
+          "total": 496,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-6I-BK",
@@ -2760,8 +2760,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "367"
+          "total": 367,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-6I-BN",
@@ -2774,8 +2774,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "818"
+          "total": 818,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-6I-BZ",
@@ -2788,8 +2788,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "951"
+          "total": 951,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-8I-BK",
@@ -2802,8 +2802,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "789"
+          "total": 789,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-8I-BN",
@@ -2816,8 +2816,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "828"
+          "total": 828,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-8I-BZ",
@@ -2830,8 +2830,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,000"
+          "total": 1000,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-10I-BK",
@@ -2844,8 +2844,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "484"
+          "total": 484,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-10I-BN",
@@ -2858,8 +2858,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "454"
+          "total": 454,
+          "notes": ""
         },
         {
           "sku": "TRR-CDL-10I-BZ",
@@ -2872,8 +2872,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "479"
+          "total": 479,
+          "notes": ""
         },
         {
           "sku": "PT-DLFG2-R-4I-9W-5CCT",
@@ -2886,8 +2886,8 @@
           "phoenix": 72,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "991"
+          "total": 991,
+          "notes": ""
         },
         {
           "sku": "PT-DLG2-R-3I-8W-5CCT",
@@ -2900,8 +2900,8 @@
           "phoenix": 24,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,412"
+          "total": 1412,
+          "notes": ""
         },
         {
           "sku": "PT-DLG2-R-4I-12W-5CCT",
@@ -2914,8 +2914,8 @@
           "phoenix": 108,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,197"
+          "total": 1197,
+          "notes": ""
         },
         {
           "sku": "PT-DLG2-R-6I-18W-5CCT",
@@ -2928,8 +2928,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "822"
+          "total": 822,
+          "notes": ""
         },
         {
           "sku": "PT-DLS-R-FR-4I-12W-5CCT",
@@ -2942,8 +2942,8 @@
           "phoenix": 0,
           "dallas": 51,
           "chicago": 0,
-          "total": 0,
-          "notes": "3,953"
+          "total": 3953,
+          "notes": ""
         },
         {
           "sku": "PT-DLS-R-FR-6I-15W-5CCT",
@@ -2956,8 +2956,8 @@
           "phoenix": 72,
           "dallas": 35,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,777"
+          "total": 1777,
+          "notes": ""
         },
         {
           "sku": "PT-DLSB-R-FR-4I-12W-5CCT",
@@ -2970,8 +2970,8 @@
           "phoenix": 30,
           "dallas": 33,
           "chicago": 0,
-          "total": 0,
-          "notes": "561"
+          "total": 561,
+          "notes": ""
         },
         {
           "sku": "PT-DLSB-R-FR-6I-15W-5CCT",
@@ -2984,8 +2984,8 @@
           "phoenix": 36,
           "dallas": 35,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,717"
+          "total": 1717,
+          "notes": ""
         },
         {
           "sku": "PT-FLS1-15W-3CCT-KM",
@@ -2998,8 +2998,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "833"
+          "total": 833,
+          "notes": ""
         },
         {
           "sku": "PT-FLS1-15W-3CCT-UB",
@@ -3012,8 +3012,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "527"
+          "total": 527,
+          "notes": ""
         },
         {
           "sku": "PT-FLS1-35W-3CCT-KM",
@@ -3025,9 +3025,9 @@
           "louisville": 33,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 18,
-          "notes": "119"
+          "chicago": 18,
+          "total": 119,
+          "notes": ""
         },
         {
           "sku": "PT-FLS1-35W-3CCT-UB",
@@ -3039,9 +3039,9 @@
           "louisville": 42,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 20,
-          "notes": "382"
+          "chicago": 20,
+          "total": 382,
+          "notes": ""
         },
         {
           "sku": "PT-FLS1-60W-3CCT-KM",
@@ -3053,9 +3053,9 @@
           "louisville": 18,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 28,
-          "notes": "311"
+          "chicago": 28,
+          "total": 311,
+          "notes": ""
         },
         {
           "sku": "PT-FLS1-60W-3CCT-UB",
@@ -3067,9 +3067,9 @@
           "louisville": 8,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 20,
-          "notes": "272"
+          "chicago": 20,
+          "total": 272,
+          "notes": ""
         },
         {
           "sku": "PT-FLS1-105W-3CCT-SF",
@@ -3082,8 +3082,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "198"
+          "total": 198,
+          "notes": ""
         },
         {
           "sku": "PT-FLS1-105W-3CCT-UB",
@@ -3097,7 +3097,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "N/A"
+          "notes": ""
         },
         {
           "sku": "For inventory levels, please inquire",
@@ -3120,12 +3120,12 @@
           "category": "Flood Light",
           "subcategory": "Flood Light",
           "ontario": 275,
-          "louisville": 11,
+          "louisville": 10,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "286"
+          "total": 285,
+          "notes": ""
         },
         {
           "sku": "PT-FLS1-140W-3CCT-UB",
@@ -3138,8 +3138,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "275"
+          "total": 275,
+          "notes": ""
         },
         {
           "sku": "PT-FLHO-MW-3CP",
@@ -3153,7 +3153,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-FLHO-HW-3CP",
@@ -3166,8 +3166,8 @@
           "phoenix": 4,
           "dallas": 1,
           "chicago": 0,
-          "total": 0,
-          "notes": "6"
+          "total": 6,
+          "notes": ""
         },
         {
           "sku": "UB-FLHO-MW",
@@ -3180,8 +3180,8 @@
           "phoenix": 15,
           "dallas": 14,
           "chicago": 0,
-          "total": 0,
-          "notes": "933"
+          "total": 933,
+          "notes": ""
         },
         {
           "sku": "UB-FLHO-HW",
@@ -3194,8 +3194,8 @@
           "phoenix": 20,
           "dallas": 10,
           "chicago": 0,
-          "total": 0,
-          "notes": "572"
+          "total": 572,
+          "notes": ""
         },
         {
           "sku": "PT-FLM2-15W-3CCT",
@@ -3203,13 +3203,13 @@
           "wattage": "15",
           "category": "Flood Light",
           "subcategory": "Mini Flood Light",
-          "ontario": 260,
+          "ontario": 247,
           "louisville": 36,
           "phoenix": 32,
           "dallas": 23,
           "chicago": 0,
-          "total": 0,
-          "notes": "351"
+          "total": 338,
+          "notes": ""
         },
         {
           "sku": "PT-FLM2-30W-3CCT",
@@ -3222,8 +3222,8 @@
           "phoenix": 26,
           "dallas": 1,
           "chicago": 0,
-          "total": 0,
-          "notes": "306"
+          "total": 306,
+          "notes": ""
         },
         {
           "sku": "PT-FLM2-MW-3CP",
@@ -3231,13 +3231,13 @@
           "wattage": "40/50/60",
           "category": "Flood Light",
           "subcategory": "Mini Flood Light",
-          "ontario": 208,
+          "ontario": 205,
           "louisville": 23,
           "phoenix": 23,
           "dallas": 8,
           "chicago": 0,
-          "total": 0,
-          "notes": "262"
+          "total": 259,
+          "notes": ""
         },
         {
           "sku": "PT-LHB-105W-2CCT",
@@ -3250,8 +3250,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "248"
+          "total": 248,
+          "notes": ""
         },
         {
           "sku": "PT-LHB-155W-2CCT",
@@ -3264,8 +3264,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "34"
+          "total": 34,
+          "notes": ""
         },
         {
           "sku": "PT-LHB-155-2C3P",
@@ -3278,8 +3278,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "458"
+          "total": 458,
+          "notes": ""
         },
         {
           "sku": "PT-LHB-170W-2CCT",
@@ -3292,8 +3292,8 @@
           "phoenix": 0,
           "dallas": 203,
           "chicago": 0,
-          "total": 0,
-          "notes": "420"
+          "total": 420,
+          "notes": ""
         },
         {
           "sku": "PT-LHB-210W-2CCT",
@@ -3302,12 +3302,12 @@
           "category": "Linear High Bay",
           "subcategory": "Linear High Bay",
           "ontario": 530,
-          "louisville": 121,
+          "louisville": 120,
           "phoenix": 36,
           "dallas": 135,
-          "chicago": 0,
-          "total": 80,
-          "notes": "902"
+          "chicago": 80,
+          "total": 901,
+          "notes": ""
         },
         {
           "sku": "PT-LHB-300W-2CCT",
@@ -3319,9 +3319,9 @@
           "louisville": 190,
           "phoenix": 0,
           "dallas": 204,
-          "chicago": 0,
-          "total": 21,
-          "notes": "3,806"
+          "chicago": 21,
+          "total": 3806,
+          "notes": ""
         },
         {
           "sku": "PT-LHB-300W-50K-480V",
@@ -3334,8 +3334,8 @@
           "phoenix": 0,
           "dallas": 30,
           "chicago": 0,
-          "total": 0,
-          "notes": "613"
+          "total": 613,
+          "notes": ""
         },
         {
           "sku": "PM-HBL4",
@@ -3347,9 +3347,9 @@
           "louisville": 42,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 32,
-          "notes": "541"
+          "chicago": 32,
+          "total": 541,
+          "notes": ""
         },
         {
           "sku": "SMK-HBL4",
@@ -3362,8 +3362,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "213"
+          "total": 213,
+          "notes": ""
         },
         {
           "sku": "WG-HBL4-2FT",
@@ -3376,8 +3376,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "458"
+          "total": 458,
+          "notes": ""
         },
         {
           "sku": "WG-HBL4-4FT",
@@ -3390,8 +3390,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "572"
+          "total": 572,
+          "notes": ""
         },
         {
           "sku": "PT-A-MSH-D",
@@ -3404,8 +3404,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "38"
+          "total": 38,
+          "notes": ""
         },
         {
           "sku": "PT-A-MSH-D-OO",
@@ -3419,7 +3419,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "LENS-HBL4-SM",
@@ -3432,8 +3432,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "30"
+          "total": 30,
+          "notes": ""
         },
         {
           "sku": "LENS-HBL4-210W",
@@ -3447,7 +3447,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "LENS-HBL4-300W",
@@ -3460,8 +3460,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "35"
+          "total": 35,
+          "notes": ""
         },
         {
           "sku": "PT-LHD-150-3CP",
@@ -3474,8 +3474,8 @@
           "phoenix": 54,
           "dallas": 40,
           "chicago": 0,
-          "total": 0,
-          "notes": "636"
+          "total": 636,
+          "notes": ""
         },
         {
           "sku": "PT-LHD-215-3CP",
@@ -3488,8 +3488,8 @@
           "phoenix": 50,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "415"
+          "total": 415,
+          "notes": ""
         },
         {
           "sku": "PT-LHD-320-3CP",
@@ -3497,13 +3497,13 @@
           "wattage": "255/290/320W",
           "category": "Linear High Bay",
           "subcategory": "Die-cast Linear High Bay",
-          "ontario": 495,
+          "ontario": 497,
           "louisville": 47,
           "phoenix": 30,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "572"
+          "total": 574,
+          "notes": ""
         },
         {
           "sku": "PM-LHD",
@@ -3516,8 +3516,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "300"
+          "total": 300,
+          "notes": ""
         },
         {
           "sku": "SMK-LHD",
@@ -3530,8 +3530,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "229"
+          "total": 229,
+          "notes": ""
         },
         {
           "sku": "PT-LHTL-115-2C3P",
@@ -3544,8 +3544,8 @@
           "phoenix": 0,
           "dallas": 200,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,010"
+          "total": 1010,
+          "notes": ""
         },
         {
           "sku": "PT-LHTL-185-2C3P",
@@ -3559,7 +3559,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-LHTL-270-2C3P",
@@ -3572,8 +3572,8 @@
           "phoenix": 0,
           "dallas": 308,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,042"
+          "total": 1042,
+          "notes": ""
         },
         {
           "sku": "PT-LHTL-400-2C3P",
@@ -3586,8 +3586,8 @@
           "phoenix": 0,
           "dallas": 122,
           "chicago": 0,
-          "total": 0,
-          "notes": "648"
+          "total": 648,
+          "notes": ""
         },
         {
           "sku": "WG-LHTL-185",
@@ -3600,8 +3600,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "396"
+          "total": 396,
+          "notes": ""
         },
         {
           "sku": "WG-LHTL-270",
@@ -3614,8 +3614,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "300"
+          "total": 300,
+          "notes": ""
         },
         {
           "sku": "WG-LHTL-400",
@@ -3628,8 +3628,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "300"
+          "total": 300,
+          "notes": ""
         },
         {
           "sku": "PM-LHTL",
@@ -3642,8 +3642,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "300"
+          "total": 300,
+          "notes": ""
         },
         {
           "sku": "SMK-LHTL",
@@ -3656,8 +3656,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "248"
+          "total": 248,
+          "notes": ""
         },
         {
           "sku": "PT-RHB-11D-3CP",
@@ -3667,11 +3667,11 @@
           "subcategory": "RHB",
           "ontario": 0,
           "louisville": 1,
-          "phoenix": 7,
+          "phoenix": 6,
           "dallas": 24,
-          "chicago": 0,
-          "total": 26,
-          "notes": "58"
+          "chicago": 26,
+          "total": 57,
+          "notes": ""
         },
         {
           "sku": "PT-RHB-13D-3CP",
@@ -3683,9 +3683,9 @@
           "louisville": 3,
           "phoenix": 48,
           "dallas": 0,
-          "chicago": 0,
-          "total": 11,
-          "notes": "154"
+          "chicago": 11,
+          "total": 154,
+          "notes": ""
         },
         {
           "sku": "PT-RHB-11D-3CP-W",
@@ -3698,8 +3698,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "414"
+          "total": 414,
+          "notes": ""
         },
         {
           "sku": "PT-RHB-13D-3CP-W",
@@ -3712,8 +3712,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "92"
+          "total": 92,
+          "notes": ""
         },
         {
           "sku": "PT-RHB-11D-3CP-HV",
@@ -3726,8 +3726,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "463"
+          "total": 463,
+          "notes": ""
         },
         {
           "sku": "PT-RHB-13D-3CP-HV",
@@ -3740,8 +3740,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "407"
+          "total": 407,
+          "notes": ""
         },
         {
           "sku": "RFL-AL-RHB-LG",
@@ -3754,8 +3754,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "387"
+          "total": 387,
+          "notes": ""
         },
         {
           "sku": "RFL-AL-RHB-SM",
@@ -3768,8 +3768,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "438"
+          "total": 438,
+          "notes": ""
         },
         {
           "sku": "RFL-PC-RHB-LG",
@@ -3782,8 +3782,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "412"
+          "total": 412,
+          "notes": ""
         },
         {
           "sku": "RFL-PC-RHB-SM",
@@ -3796,8 +3796,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "243"
+          "total": 243,
+          "notes": ""
         },
         {
           "sku": "RFL-PC-BC-RHB",
@@ -3810,8 +3810,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "557"
+          "total": 557,
+          "notes": ""
         },
         {
           "sku": "RHB-11D-L120",
@@ -3824,8 +3824,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "886"
+          "total": 886,
+          "notes": ""
         },
         {
           "sku": "RHB-13D-L120",
@@ -3838,8 +3838,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "982"
+          "total": 982,
+          "notes": ""
         },
         {
           "sku": "WG-RHB-SM",
@@ -3852,8 +3852,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "478"
+          "total": 478,
+          "notes": ""
         },
         {
           "sku": "WG-RHB-LG",
@@ -3866,8 +3866,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "428"
+          "total": 428,
+          "notes": ""
         },
         {
           "sku": "PT-RHBE-150W-50K",
@@ -3879,9 +3879,9 @@
           "louisville": 11,
           "phoenix": 7,
           "dallas": 129,
-          "chicago": 0,
-          "total": 7,
-          "notes": "155"
+          "chicago": 7,
+          "total": 155,
+          "notes": ""
         },
         {
           "sku": "PT-RHBE-240W-50K",
@@ -3894,8 +3894,8 @@
           "phoenix": 5,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "6"
+          "total": 6,
+          "notes": ""
         },
         {
           "sku": "PT-RHBE-150-2C3P",
@@ -3908,8 +3908,8 @@
           "phoenix": 0,
           "dallas": 96,
           "chicago": 0,
-          "total": 0,
-          "notes": "322"
+          "total": 322,
+          "notes": ""
         },
         {
           "sku": "PT-RHBE-240-2C3P",
@@ -3922,8 +3922,8 @@
           "phoenix": 0,
           "dallas": 191,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,013"
+          "total": 1013,
+          "notes": ""
         },
         {
           "sku": "UB-RHBE",
@@ -3936,8 +3936,8 @@
           "phoenix": 0,
           "dallas": 100,
           "chicago": 0,
-          "total": 0,
-          "notes": "458"
+          "total": 458,
+          "notes": ""
         },
         {
           "sku": "WG-RHBE-150",
@@ -3950,8 +3950,8 @@
           "phoenix": 25,
           "dallas": 100,
           "chicago": 0,
-          "total": 0,
-          "notes": "394"
+          "total": 394,
+          "notes": ""
         },
         {
           "sku": "WG-RHBE-240",
@@ -3964,8 +3964,8 @@
           "phoenix": 25,
           "dallas": 100,
           "chicago": 0,
-          "total": 0,
-          "notes": "355"
+          "total": 355,
+          "notes": ""
         },
         {
           "sku": "PT-HBU2-150W-50K-MS",
@@ -3978,8 +3978,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "330"
+          "total": 330,
+          "notes": ""
         },
         {
           "sku": "PT-HBU2-240W-50K-MS",
@@ -3992,8 +3992,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "183"
+          "total": 183,
+          "notes": ""
         },
         {
           "sku": "UB-HBU3-LG",
@@ -4006,8 +4006,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "540"
+          "total": 540,
+          "notes": ""
         },
         {
           "sku": "UB-HBU3-SM",
@@ -4020,8 +4020,8 @@
           "phoenix": 25,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "484"
+          "total": 484,
+          "notes": ""
         },
         {
           "sku": "MS-UNI-MW",
@@ -4034,8 +4034,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,442"
+          "total": 1442,
+          "notes": ""
         },
         {
           "sku": "MS-UNI-PR",
@@ -4043,13 +4043,13 @@
           "wattage": "N/A",
           "category": "Round High Bay",
           "subcategory": "High Bay - Round Sensor Options",
-          "ontario": 1959,
+          "ontario": 1946,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 82,
-          "notes": "2,041"
+          "chicago": 82,
+          "total": 2028,
+          "notes": ""
         },
         {
           "sku": "RC-UNI-MW",
@@ -4062,8 +4062,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "14"
+          "total": 14,
+          "notes": ""
         },
         {
           "sku": "RFL-PC-BC-HBU3-SM",
@@ -4076,8 +4076,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "304"
+          "total": 304,
+          "notes": ""
         },
         {
           "sku": "RFL-PC-BC-HBU3-LG",
@@ -4090,8 +4090,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "244"
+          "total": 244,
+          "notes": ""
         },
         {
           "sku": "RFL-PC-HBU3-SM",
@@ -4104,8 +4104,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "698"
+          "total": 698,
+          "notes": ""
         },
         {
           "sku": "RFL-PC-HBU3-LG",
@@ -4117,9 +4117,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 5,
-          "notes": "29"
+          "chicago": 5,
+          "total": 29,
+          "notes": ""
         },
         {
           "sku": "RFL-AL-HBU3-SM",
@@ -4132,8 +4132,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "499"
+          "total": 499,
+          "notes": ""
         },
         {
           "sku": "RFL-AL-HBU3-LG",
@@ -4146,8 +4146,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "303"
+          "total": 303,
+          "notes": ""
         },
         {
           "sku": "WG-HBU3-SM",
@@ -4160,8 +4160,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "223"
+          "total": 223,
+          "notes": ""
         },
         {
           "sku": "WG-HBU3-LG",
@@ -4174,8 +4174,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "271"
+          "total": 271,
+          "notes": ""
         },
         {
           "sku": "PT-BLP8-14-3CP",
@@ -4187,9 +4187,9 @@
           "louisville": 0,
           "phoenix": 74,
           "dallas": 109,
-          "chicago": 0,
-          "total": 72,
-          "notes": "449"
+          "chicago": 72,
+          "total": 449,
+          "notes": ""
         },
         {
           "sku": "PT-BLP-22-40-3CP-9",
@@ -4197,13 +4197,13 @@
           "wattage": "25/30/40",
           "category": "Flat Panel",
           "subcategory": "BLP9",
-          "ontario": 1284,
+          "ontario": 1259,
           "louisville": 112,
-          "phoenix": 130,
+          "phoenix": 100,
           "dallas": 415,
-          "chicago": 288,
-          "total": 221,
-          "notes": "2,450"
+          "chicago": 221,
+          "total": 2107,
+          "notes": ""
         },
         {
           "sku": "PT-BLP-24-40-3CP-9",
@@ -4211,13 +4211,13 @@
           "wattage": "25/30/40",
           "category": "Flat Panel",
           "subcategory": "BLP9",
-          "ontario": 1751,
+          "ontario": 1740,
           "louisville": 442,
           "phoenix": 436,
-          "dallas": 888,
-          "chicago": 574,
-          "total": 246,
-          "notes": "4,337"
+          "dallas": 883,
+          "chicago": 392,
+          "total": 3893,
+          "notes": ""
         },
         {
           "sku": "PT-BLP8-22-3CP-EM",
@@ -4230,8 +4230,8 @@
           "phoenix": 28,
           "dallas": 41,
           "chicago": 0,
-          "total": 0,
-          "notes": "238"
+          "total": 238,
+          "notes": ""
         },
         {
           "sku": "PT-BLP8-24-3CP-EM",
@@ -4243,9 +4243,9 @@
           "louisville": 0,
           "phoenix": 1,
           "dallas": 50,
-          "chicago": 0,
-          "total": 30,
-          "notes": "84"
+          "chicago": 30,
+          "total": 84,
+          "notes": ""
         },
         {
           "sku": "PT-BLP-14-3CP-SR",
@@ -4258,8 +4258,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "441"
+          "total": 441,
+          "notes": ""
         },
         {
           "sku": "PT-BLP-22-3CP-SR",
@@ -4271,9 +4271,9 @@
           "louisville": 44,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 132,
-          "notes": "452"
+          "chicago": 132,
+          "total": 452,
+          "notes": ""
         },
         {
           "sku": "PT-BLP-24-3CP-SR",
@@ -4285,9 +4285,9 @@
           "louisville": 96,
           "phoenix": 0,
           "dallas": 2,
-          "chicago": 0,
-          "total": 96,
-          "notes": "2,519"
+          "chicago": 96,
+          "total": 2519,
+          "notes": ""
         },
         {
           "sku": "SMK-BLP-14",
@@ -4299,9 +4299,9 @@
           "louisville": 76,
           "phoenix": 22,
           "dallas": 0,
-          "chicago": 0,
-          "total": 61,
-          "notes": "435"
+          "chicago": 61,
+          "total": 435,
+          "notes": ""
         },
         {
           "sku": "SMK-BLP-22",
@@ -4313,9 +4313,9 @@
           "louisville": 10,
           "phoenix": 46,
           "dallas": 33,
-          "chicago": 0,
-          "total": 55,
-          "notes": "404"
+          "chicago": 55,
+          "total": 404,
+          "notes": ""
         },
         {
           "sku": "SMK-BLP-24",
@@ -4327,9 +4327,9 @@
           "louisville": 0,
           "phoenix": 29,
           "dallas": 15,
-          "chicago": 0,
-          "total": 60,
-          "notes": "104"
+          "chicago": 60,
+          "total": 104,
+          "notes": ""
         },
         {
           "sku": "SMK-UNI-14",
@@ -4342,8 +4342,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "537"
+          "total": 537,
+          "notes": ""
         },
         {
           "sku": "SMK-UNI-22",
@@ -4356,8 +4356,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "796"
+          "total": 796,
+          "notes": ""
         },
         {
           "sku": "SMK-UNI-24",
@@ -4368,10 +4368,10 @@
           "ontario": 433,
           "louisville": 41,
           "phoenix": 0,
-          "dallas": 48,
+          "dallas": 44,
           "chicago": 0,
-          "total": 0,
-          "notes": "522"
+          "total": 518,
+          "notes": ""
         },
         {
           "sku": "FK-14",
@@ -4383,9 +4383,9 @@
           "louisville": 34,
           "phoenix": 21,
           "dallas": 13,
-          "chicago": 0,
-          "total": 18,
-          "notes": "328"
+          "chicago": 18,
+          "total": 328,
+          "notes": ""
         },
         {
           "sku": "FK-22",
@@ -4397,9 +4397,9 @@
           "louisville": 45,
           "phoenix": 43,
           "dallas": 68,
-          "chicago": 0,
-          "total": 87,
-          "notes": "422"
+          "chicago": 87,
+          "total": 422,
+          "notes": ""
         },
         {
           "sku": "FK-24",
@@ -4411,9 +4411,9 @@
           "louisville": 43,
           "phoenix": 53,
           "dallas": 35,
-          "chicago": 0,
-          "total": 22,
-          "notes": "264"
+          "chicago": 22,
+          "total": 264,
+          "notes": ""
         },
         {
           "sku": "A-CBL-BLP-14",
@@ -4426,8 +4426,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "380"
+          "total": 380,
+          "notes": ""
         },
         {
           "sku": "A-CBL-BLP-224",
@@ -4439,9 +4439,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 67,
-          "notes": "171"
+          "chicago": 67,
+          "total": 171,
+          "notes": ""
         },
         {
           "sku": "D-BLP8-1422-12V",
@@ -4454,8 +4454,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "21"
+          "total": 21,
+          "notes": ""
         },
         {
           "sku": "D-BLP8-24-12V",
@@ -4468,8 +4468,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,449"
+          "total": 1449,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-WMB2-2-BZ",
@@ -4481,9 +4481,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 20,
-          "notes": "59"
+          "chicago": 20,
+          "total": 59,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-WMB2-3-BZ",
@@ -4496,8 +4496,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "138"
+          "total": 138,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-WMB2-4",
@@ -4510,8 +4510,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "225"
+          "total": 225,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-WMB2-90-BZ",
@@ -4523,9 +4523,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 42,
-          "notes": "60"
+          "chicago": 35,
+          "total": 53,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-WMB2-90-LG",
@@ -4538,8 +4538,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "126"
+          "total": 126,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-HST2-1-BZ",
@@ -4551,9 +4551,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 5,
-          "notes": "173"
+          "chicago": 5,
+          "total": 173,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-HST2-2-BZ",
@@ -4565,9 +4565,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
+          "chicago": 3,
           "total": 3,
-          "notes": "3"
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-HST2-4-BZ",
@@ -4579,9 +4579,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 4,
-          "notes": "85"
+          "chicago": 4,
+          "total": 85,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-VST2-1-BZ",
@@ -4593,9 +4593,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 4,
-          "notes": "4"
+          "chicago": 24,
+          "total": 24,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-VRT2-1-BZ",
@@ -4607,9 +4607,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
+          "chicago": 28,
           "total": 28,
-          "notes": "28"
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-VRT2-1-BZ",
@@ -4621,9 +4621,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
+          "chicago": 28,
           "total": 28,
-          "notes": "28"
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-VRT2-2-BZ",
@@ -4636,8 +4636,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "44"
+          "total": 44,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-VRT2-2-LG",
@@ -4650,8 +4650,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "45"
+          "total": 45,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-VRT2-3-BZ",
@@ -4663,9 +4663,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 6,
-          "notes": "26"
+          "chicago": 6,
+          "total": 26,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-VRT2-3-LG",
@@ -4678,8 +4678,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "62"
+          "total": 62,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-VRT2-4-BZ",
@@ -4691,9 +4691,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 1,
-          "notes": "54"
+          "chicago": 1,
+          "total": 54,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-VRT2-4-LG",
@@ -4706,8 +4706,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "50"
+          "total": 50,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-BH2-2-BZ",
@@ -4719,9 +4719,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 4,
-          "notes": "49"
+          "chicago": 10,
+          "total": 55,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-BH2-2-LG",
@@ -4734,8 +4734,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "50"
+          "total": 50,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-BH2-3-BZ",
@@ -4748,8 +4748,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "7"
+          "total": 7,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-BH2-3-LG",
@@ -4762,8 +4762,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "31"
+          "total": 31,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-BH2-4-BZ",
@@ -4775,9 +4775,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 2,
-          "notes": "33"
+          "chicago": 2,
+          "total": 33,
+          "notes": ""
         },
         {
           "sku": "PT-AL-P-BH2-4-LG",
@@ -4790,8 +4790,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "21"
+          "total": 21,
+          "notes": ""
         },
         {
           "sku": "PT-SPL-600-3P-50K",
@@ -4804,8 +4804,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "22"
+          "total": 22,
+          "notes": ""
         },
         {
           "sku": "PT-SPL-600-3P-50K-HV",
@@ -4813,13 +4813,13 @@
           "wattage": "400/500/600W",
           "category": "Sports Light",
           "subcategory": "Sport Light",
-          "ontario": 15,
+          "ontario": 16,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "15"
+          "total": 16,
+          "notes": ""
         },
         {
           "sku": "SF-SPL",
@@ -4832,8 +4832,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "6"
+          "total": 6,
+          "notes": ""
         },
         {
           "sku": "VSR-SPL",
@@ -4846,8 +4846,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "18"
+          "total": 18,
+          "notes": ""
         },
         {
           "sku": "LENS-SPL-20",
@@ -4860,8 +4860,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "20"
+          "total": 20,
+          "notes": ""
         },
         {
           "sku": "LENS-SPL-55",
@@ -4874,8 +4874,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "20"
+          "total": 20,
+          "notes": ""
         },
         {
           "sku": "LENS-SPL-90",
@@ -4888,8 +4888,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "20"
+          "total": 20,
+          "notes": ""
         },
         {
           "sku": "PT-STL-4F-3CP",
@@ -4901,9 +4901,9 @@
           "louisville": 46,
           "phoenix": 0,
           "dallas": 19,
-          "chicago": 0,
-          "total": 31,
-          "notes": "465"
+          "chicago": 31,
+          "total": 465,
+          "notes": ""
         },
         {
           "sku": "PT-STL-4F-3CP-EM",
@@ -4915,9 +4915,9 @@
           "louisville": 5,
           "phoenix": 0,
           "dallas": 2,
-          "chicago": 0,
-          "total": 5,
-          "notes": "208"
+          "chicago": 5,
+          "total": 208,
+          "notes": ""
         },
         {
           "sku": "PT-LS1-2FT-3CP",
@@ -4929,9 +4929,9 @@
           "louisville": 34,
           "phoenix": 56,
           "dallas": 122,
-          "chicago": 0,
-          "total": 39,
-          "notes": "526"
+          "chicago": 39,
+          "total": 526,
+          "notes": ""
         },
         {
           "sku": "PT-LS1-4FT-3CP",
@@ -4939,13 +4939,13 @@
           "wattage": "25/30/40W",
           "category": "Strip Light",
           "subcategory": "LS1",
-          "ontario": 282,
-          "louisville": 115,
+          "ontario": 270,
+          "louisville": 103,
           "phoenix": 113,
           "dallas": 114,
-          "chicago": 60,
-          "total": 3,
-          "notes": "687"
+          "chicago": 63,
+          "total": 663,
+          "notes": ""
         },
         {
           "sku": "PT-LS1-8FT-3CP",
@@ -4953,13 +4953,13 @@
           "wattage": "55/60/65W",
           "category": "Strip Light",
           "subcategory": "LS1",
-          "ontario": 758,
-          "louisville": 83,
+          "ontario": 750,
+          "louisville": 71,
           "phoenix": 34,
           "dallas": 130,
-          "chicago": 60,
-          "total": 4,
-          "notes": "1,069"
+          "chicago": 4,
+          "total": 989,
+          "notes": ""
         },
         {
           "sku": "PT-LS1-4FT-3CP-EM",
@@ -4972,8 +4972,8 @@
           "phoenix": 0,
           "dallas": 28,
           "chicago": 0,
-          "total": 0,
-          "notes": "28"
+          "total": 28,
+          "notes": "Factory-installed 8W Battery"
         },
         {
           "sku": "PT-LS1-8FT-3CP-EM",
@@ -4986,8 +4986,8 @@
           "phoenix": 19,
           "dallas": 18,
           "chicago": 0,
-          "total": 0,
-          "notes": "309"
+          "total": 309,
+          "notes": "Factory-installed 15W Battery"
         },
         {
           "sku": "PT-LS-HO-4F-3CP",
@@ -4995,13 +4995,13 @@
           "wattage": "44/60/80W",
           "category": "Strip Light",
           "subcategory": "High Output",
-          "ontario": 493,
+          "ontario": 491,
           "louisville": 29,
           "phoenix": 0,
           "dallas": 30,
           "chicago": 0,
-          "total": 0,
-          "notes": "552"
+          "total": 550,
+          "notes": ""
         },
         {
           "sku": "PT-LS-HO-8F-3CP",
@@ -5014,8 +5014,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "199"
+          "total": 199,
+          "notes": "ETA July"
         },
         {
           "sku": "PT-LS-2F-3CP-SR",
@@ -5028,8 +5028,8 @@
           "phoenix": 0,
           "dallas": 4,
           "chicago": 0,
-          "total": 0,
-          "notes": "382"
+          "total": 382,
+          "notes": ""
         },
         {
           "sku": "PT-LS-4F-3CP-SR",
@@ -5042,8 +5042,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,263"
+          "total": 1263,
+          "notes": ""
         },
         {
           "sku": "PT-LS-8F-3CP-SR",
@@ -5056,8 +5056,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "207"
+          "total": 207,
+          "notes": ""
         },
         {
           "sku": "WG-LS1-4FT",
@@ -5070,8 +5070,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "2,011"
+          "total": 2011,
+          "notes": ""
         },
         {
           "sku": "CON-LS1",
@@ -5085,7 +5085,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-TRO2-14-3CP",
@@ -5098,8 +5098,8 @@
           "phoenix": 69,
           "dallas": 48,
           "chicago": 0,
-          "total": 0,
-          "notes": "711"
+          "total": 711,
+          "notes": ""
         },
         {
           "sku": "PT-TRO2-22-3CP",
@@ -5111,9 +5111,9 @@
           "louisville": 0,
           "phoenix": 96,
           "dallas": 192,
-          "chicago": 96,
-          "total": 67,
-          "notes": "1,314"
+          "chicago": 67,
+          "total": 1218,
+          "notes": ""
         },
         {
           "sku": "PT-TRO2-24-3CP",
@@ -5125,9 +5125,9 @@
           "louisville": 208,
           "phoenix": 89,
           "dallas": 621,
-          "chicago": 192,
-          "total": 64,
-          "notes": "3,415"
+          "chicago": 60,
+          "total": 3219,
+          "notes": ""
         },
         {
           "sku": "PT-TRO2-22-3CP-EM",
@@ -5141,7 +5141,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-TRO2-24-3CP-EM",
@@ -5154,8 +5154,8 @@
           "phoenix": 40,
           "dallas": 39,
           "chicago": 0,
-          "total": 0,
-          "notes": "237"
+          "total": 237,
+          "notes": ""
         },
         {
           "sku": "PT-TRO-HO-22-3CP",
@@ -5168,8 +5168,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "331"
+          "total": 331,
+          "notes": ""
         },
         {
           "sku": "PT-TRO-HO-24-3CP",
@@ -5182,8 +5182,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "451"
+          "total": 451,
+          "notes": ""
         },
         {
           "sku": "PT-TRO-22-RTK-3CP",
@@ -5196,8 +5196,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "799"
+          "total": 799,
+          "notes": ""
         },
         {
           "sku": "PT-TRO-24-RTK-3CP",
@@ -5210,8 +5210,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1"
+          "total": 1,
+          "notes": ""
         },
         {
           "sku": "PT-TRO-24-25-RTK-3CP",
@@ -5219,13 +5219,13 @@
           "wattage": "25/30/35",
           "category": "Troffer",
           "subcategory": "Troffer Retrofit Kit",
-          "ontario": 1749,
+          "ontario": 1581,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,749"
+          "total": 1581,
+          "notes": ""
         },
         {
           "sku": "PT-TRO-14-3CP-SR",
@@ -5237,9 +5237,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 24,
-          "notes": "259"
+          "chicago": 24,
+          "total": 259,
+          "notes": ""
         },
         {
           "sku": "PT-TRO-22-3CP-SR",
@@ -5251,9 +5251,9 @@
           "louisville": 48,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 20,
-          "notes": "567"
+          "chicago": 20,
+          "total": 567,
+          "notes": ""
         },
         {
           "sku": "PT-TRO-24-3CP-SR",
@@ -5265,9 +5265,9 @@
           "louisville": 48,
           "phoenix": 0,
           "dallas": 2,
-          "chicago": 0,
-          "total": 72,
-          "notes": "4,571"
+          "chicago": 72,
+          "total": 4571,
+          "notes": ""
         },
         {
           "sku": "PT-TRO-22-RTK-3CP-SR",
@@ -5280,8 +5280,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "514"
+          "total": 514,
+          "notes": ""
         },
         {
           "sku": "PT-TRO-24-RTK-3CP-SR",
@@ -5289,13 +5289,13 @@
           "wattage": "34/38/45",
           "category": "Troffer",
           "subcategory": "Sensor Ready Troffer Retrofit Kit",
-          "ontario": 72,
+          "ontario": 0,
           "louisville": 2,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "74"
+          "total": 2,
+          "notes": ""
         },
         {
           "sku": "SMK-TRO-22",
@@ -5307,9 +5307,9 @@
           "louisville": 37,
           "phoenix": 0,
           "dallas": 20,
-          "chicago": 0,
-          "total": 10,
-          "notes": "469"
+          "chicago": 10,
+          "total": 469,
+          "notes": ""
         },
         {
           "sku": "SMK-TRO-24",
@@ -5321,9 +5321,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 20,
-          "chicago": 0,
-          "total": 20,
-          "notes": "181"
+          "chicago": 20,
+          "total": 181,
+          "notes": ""
         },
         {
           "sku": "SMK-UNI-14",
@@ -5336,8 +5336,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "537"
+          "total": 537,
+          "notes": ""
         },
         {
           "sku": "SMK-UNI-22",
@@ -5350,8 +5350,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "796"
+          "total": 796,
+          "notes": ""
         },
         {
           "sku": "SMK-UNI-24",
@@ -5362,10 +5362,10 @@
           "ontario": 433,
           "louisville": 41,
           "phoenix": 0,
-          "dallas": 48,
+          "dallas": 44,
           "chicago": 0,
-          "total": 0,
-          "notes": "522"
+          "total": 518,
+          "notes": ""
         },
         {
           "sku": "PT-T8-4FAB-18W-5CCT-3",
@@ -5373,13 +5373,13 @@
           "wattage": "18",
           "category": "Tube",
           "subcategory": "Hybrid Tube (Type A+B)",
-          "ontario": 6212,
+          "ontario": 5912,
           "louisville": 0,
           "phoenix": 200,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "6,412"
+          "total": 6112,
+          "notes": ""
         },
         {
           "sku": "PT-T8-4FB-18W-5CCT",
@@ -5392,8 +5392,8 @@
           "phoenix": 274,
           "dallas": 2250,
           "chicago": 0,
-          "total": 0,
-          "notes": "9,265"
+          "total": 9265,
+          "notes": ""
         },
         {
           "sku": "PT-T8-010V-DIM",
@@ -5406,8 +5406,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "60"
+          "total": 60,
+          "notes": ""
         },
         {
           "sku": "PT-VT2-2F-3CP",
@@ -5419,9 +5419,9 @@
           "louisville": 40,
           "phoenix": 29,
           "dallas": 32,
-          "chicago": 0,
-          "total": 40,
-          "notes": "419"
+          "chicago": 40,
+          "total": 419,
+          "notes": ""
         },
         {
           "sku": "PT-VT2-4F-3CP",
@@ -5429,13 +5429,13 @@
           "wattage": "34/38/45",
           "category": "Vaportight",
           "subcategory": "Vapor Tight",
-          "ontario": 440,
-          "louisville": 28,
+          "ontario": 435,
+          "louisville": 26,
           "phoenix": 92,
           "dallas": 30,
-          "chicago": 60,
-          "total": 46,
-          "notes": "696"
+          "chicago": 46,
+          "total": 629,
+          "notes": ""
         },
         {
           "sku": "PT-VT2-8F-3CP",
@@ -5447,9 +5447,9 @@
           "louisville": 0,
           "phoenix": 136,
           "dallas": 58,
-          "chicago": 0,
-          "total": 75,
-          "notes": "276"
+          "chicago": 75,
+          "total": 276,
+          "notes": ""
         },
         {
           "sku": "PT-VT2-4F-3CP-EM",
@@ -5462,8 +5462,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "25"
+          "total": 25,
+          "notes": ""
         },
         {
           "sku": "PT-VT2-8F-3CP-EM",
@@ -5476,8 +5476,8 @@
           "phoenix": 16,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "234"
+          "total": 234,
+          "notes": ""
         },
         {
           "sku": "PT-VS-MO-4F-3CP",
@@ -5490,8 +5490,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "86"
+          "total": 86,
+          "notes": ""
         },
         {
           "sku": "PT-VS-MO-8F-3CP",
@@ -5504,8 +5504,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "429"
+          "total": 429,
+          "notes": ""
         },
         {
           "sku": "PT-VS-WD-4F-HW-3CP",
@@ -5518,8 +5518,8 @@
           "phoenix": 0,
           "dallas": 1,
           "chicago": 0,
-          "total": 0,
-          "notes": "237"
+          "total": 237,
+          "notes": ""
         },
         {
           "sku": "PT-WPH3-LW-3CP",
@@ -5531,9 +5531,9 @@
           "louisville": 12,
           "phoenix": 33,
           "dallas": 14,
-          "chicago": 0,
-          "total": 17,
-          "notes": "110"
+          "chicago": 17,
+          "total": 110,
+          "notes": ""
         },
         {
           "sku": "PT-WPH3-HW-3CP",
@@ -5546,8 +5546,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1"
+          "total": 1,
+          "notes": ""
         },
         {
           "sku": "PT-WPH3-LW-3CP-W",
@@ -5560,8 +5560,8 @@
           "phoenix": 0,
           "dallas": 10,
           "chicago": 0,
-          "total": 0,
-          "notes": "595"
+          "total": 595,
+          "notes": ""
         },
         {
           "sku": "PT-WPH3-HW-3CP-W",
@@ -5574,8 +5574,8 @@
           "phoenix": 0,
           "dallas": 5,
           "chicago": 0,
-          "total": 0,
-          "notes": "353"
+          "total": 353,
+          "notes": ""
         },
         {
           "sku": "PT-WPH3-LW-3CP-EM",
@@ -5588,8 +5588,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "4"
+          "total": 4,
+          "notes": ""
         },
         {
           "sku": "PT-WPH3-HW-3CP-EM",
@@ -5602,8 +5602,8 @@
           "phoenix": 0,
           "dallas": 10,
           "chicago": 0,
-          "total": 0,
-          "notes": "30"
+          "total": 30,
+          "notes": ""
         },
         {
           "sku": "PT-WPH-75-3CP-4",
@@ -5616,8 +5616,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "487"
+          "total": 487,
+          "notes": ""
         },
         {
           "sku": "PT-WPH-120-3CP-4",
@@ -5630,8 +5630,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "44"
+          "total": 44,
+          "notes": ""
         },
         {
           "sku": "PT-WPF-LW-3CP",
@@ -5643,9 +5643,9 @@
           "louisville": 14,
           "phoenix": 30,
           "dallas": 8,
-          "chicago": 0,
-          "total": 17,
-          "notes": "75"
+          "chicago": 13,
+          "total": 71,
+          "notes": ""
         },
         {
           "sku": "PT-WPF-HW-3CP",
@@ -5654,12 +5654,12 @@
           "category": "Wall Pack",
           "subcategory": "Full Cutoff Wall Pack",
           "ontario": 192,
-          "louisville": 109,
+          "louisville": 89,
           "phoenix": 45,
           "dallas": 34,
-          "chicago": 0,
-          "total": 27,
-          "notes": "407"
+          "chicago": 27,
+          "total": 387,
+          "notes": ""
         },
         {
           "sku": "PT-WPF-LW-3CP-W",
@@ -5672,8 +5672,8 @@
           "phoenix": 0,
           "dallas": 10,
           "chicago": 0,
-          "total": 0,
-          "notes": "372"
+          "total": 372,
+          "notes": ""
         },
         {
           "sku": "PT-WPF-HW-3CP-W",
@@ -5686,8 +5686,8 @@
           "phoenix": 0,
           "dallas": 10,
           "chicago": 0,
-          "total": 0,
-          "notes": "471"
+          "total": 471,
+          "notes": ""
         },
         {
           "sku": "PT-WPF-LW-3CP-EM",
@@ -5701,7 +5701,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-WPF-HW-3CP-EM",
@@ -5714,8 +5714,8 @@
           "phoenix": 0,
           "dallas": 16,
           "chicago": 0,
-          "total": 0,
-          "notes": "40"
+          "total": 40,
+          "notes": ""
         },
         {
           "sku": "PT-WPM3-3CP",
@@ -5723,13 +5723,13 @@
           "wattage": "15/20/25",
           "category": "Wall Pack",
           "subcategory": "3rd Gen Mini WP",
-          "ontario": 253,
+          "ontario": 252,
           "louisville": 14,
           "phoenix": 21,
           "dallas": 10,
-          "chicago": 0,
-          "total": 29,
-          "notes": "327"
+          "chicago": 29,
+          "total": 326,
+          "notes": ""
         },
         {
           "sku": "PT-WPM2-15W-3CCT",
@@ -5742,8 +5742,8 @@
           "phoenix": 30,
           "dallas": 25,
           "chicago": 0,
-          "total": 0,
-          "notes": "158"
+          "total": 158,
+          "notes": ""
         },
         {
           "sku": "PT-WPM2-30W-3CCT",
@@ -5756,8 +5756,8 @@
           "phoenix": 0,
           "dallas": 14,
           "chicago": 0,
-          "total": 0,
-          "notes": "34"
+          "total": 34,
+          "notes": ""
         },
         {
           "sku": "PT-WPS-60-3CP",
@@ -5770,8 +5770,8 @@
           "phoenix": 0,
           "dallas": 20,
           "chicago": 0,
-          "total": 0,
-          "notes": "295"
+          "total": 295,
+          "notes": ""
         },
         {
           "sku": "PT-WPS-100-3CP",
@@ -5784,8 +5784,8 @@
           "phoenix": 0,
           "dallas": 19,
           "chicago": 0,
-          "total": 0,
-          "notes": "234"
+          "total": 234,
+          "notes": ""
         },
         {
           "sku": "PT-WPF-60-3CPB",
@@ -5793,13 +5793,13 @@
           "wattage": "40/50/60",
           "category": "Wall Pack",
           "subcategory": "Beam Angle Adjustable",
-          "ontario": 514,
+          "ontario": 503,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 1,
           "chicago": 0,
-          "total": 0,
-          "notes": "515"
+          "total": 504,
+          "notes": ""
         },
         {
           "sku": "PT-WPF-100-3CPB",
@@ -5812,8 +5812,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "150"
+          "total": 150,
+          "notes": ""
         },
         {
           "sku": "PT-WPH-60-3CPB",
@@ -5821,13 +5821,13 @@
           "wattage": "40/50/60",
           "category": "Wall Pack",
           "subcategory": "Beam Angle Adjustable",
-          "ontario": 203,
+          "ontario": 199,
           "louisville": 26,
           "phoenix": 0,
           "dallas": 3,
           "chicago": 0,
-          "total": 0,
-          "notes": "232"
+          "total": 228,
+          "notes": ""
         },
         {
           "sku": "PT-WPH-120-3CPB",
@@ -5835,13 +5835,13 @@
           "wattage": "80/100/120",
           "category": "Wall Pack",
           "subcategory": "Beam Angle Adjustable",
-          "ontario": 168,
+          "ontario": 162,
           "louisville": 26,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "194"
+          "total": 188,
+          "notes": ""
         },
         {
           "sku": "PT-WPC-HW-3CP",
@@ -5849,13 +5849,13 @@
           "wattage": "48/64/80",
           "category": "Wall Pack",
           "subcategory": "Circle  Wallpack",
-          "ontario": 55,
+          "ontario": 56,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 1,
           "chicago": 0,
-          "total": 0,
-          "notes": "56"
+          "total": 57,
+          "notes": ""
         },
         {
           "sku": "PT-WPR-MW-3CP",
@@ -5867,9 +5867,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 1,
-          "chicago": 0,
-          "total": 12,
-          "notes": "35"
+          "chicago": 12,
+          "total": 35,
+          "notes": ""
         },
         {
           "sku": "PT-WPR-HW-3CP",
@@ -5881,9 +5881,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
+          "chicago": 3,
           "total": 3,
-          "notes": "3"
+          "notes": ""
         },
         {
           "sku": "PT-WPA-MW-3CP",
@@ -5896,8 +5896,8 @@
           "phoenix": 0,
           "dallas": 1,
           "chicago": 0,
-          "total": 0,
-          "notes": "14"
+          "total": 14,
+          "notes": ""
         },
         {
           "sku": "PT-WPA-HW-3CP",
@@ -5910,8 +5910,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "34"
+          "total": 34,
+          "notes": ""
         },
         {
           "sku": "PT-WA2-4F7I-3CP",
@@ -5923,9 +5923,9 @@
           "louisville": 22,
           "phoenix": 69,
           "dallas": 49,
-          "chicago": 0,
-          "total": 11,
-          "notes": "1,091"
+          "chicago": 58,
+          "total": 1138,
+          "notes": ""
         },
         {
           "sku": "PT-WAFA-4F9I-3CCT",
@@ -5937,9 +5937,9 @@
           "louisville": 0,
           "phoenix": 5,
           "dallas": 0,
-          "chicago": 0,
-          "total": 0,
-          "notes": "270"
+          "chicago": 36,
+          "total": 306,
+          "notes": ""
         },
         {
           "sku": "PT-WAA-4F9I-3CP",
@@ -5952,8 +5952,8 @@
           "phoenix": 0,
           "dallas": 2,
           "chicago": 0,
-          "total": 0,
-          "notes": "11"
+          "total": 11,
+          "notes": ""
         },
         {
           "sku": "PT-WAS-4F5I-40-3CP-2",
@@ -5966,8 +5966,8 @@
           "phoenix": 0,
           "dallas": 96,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,114"
+          "total": 1114,
+          "notes": ""
         },
         {
           "sku": "PT-WAM-4F9I-3CP",
@@ -5981,7 +5981,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-EXL-2",
@@ -5992,10 +5992,10 @@
           "ontario": 0,
           "louisville": 0,
           "phoenix": 87,
-          "dallas": 28,
-          "chicago": 0,
-          "total": 20,
-          "notes": "135"
+          "dallas": 8,
+          "chicago": 20,
+          "total": 115,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-2-RED",
@@ -6008,8 +6008,8 @@
           "phoenix": 0,
           "dallas": 88,
           "chicago": 0,
-          "total": 0,
-          "notes": "703"
+          "total": 703,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-2-SAL",
@@ -6022,8 +6022,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "855"
+          "total": 855,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-C-S",
@@ -6031,13 +6031,13 @@
           "wattage": "3.5",
           "category": "Exit & Emergency",
           "subcategory": "Emergency Light",
-          "ontario": 346,
+          "ontario": 321,
           "louisville": 56,
           "phoenix": 59,
-          "dallas": 39,
-          "chicago": 0,
-          "total": 20,
-          "notes": "520"
+          "dallas": 30,
+          "chicago": 20,
+          "total": 486,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-C-S-SAL",
@@ -6050,8 +6050,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "885"
+          "total": 885,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-C-R",
@@ -6059,13 +6059,13 @@
           "wattage": "2",
           "category": "Exit & Emergency",
           "subcategory": "Emergency Light",
-          "ontario": 160,
+          "ontario": 136,
           "louisville": 32,
           "phoenix": 41,
           "dallas": 116,
           "chicago": 0,
-          "total": 0,
-          "notes": "349"
+          "total": 325,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-C-SLM-RED",
@@ -6078,8 +6078,8 @@
           "phoenix": 0,
           "dallas": 71,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,741"
+          "total": 1741,
+          "notes": ""
         },
         {
           "sku": "PT-EML-S",
@@ -6091,9 +6091,9 @@
           "louisville": 2,
           "phoenix": 31,
           "dallas": 2,
-          "chicago": 0,
-          "total": 18,
-          "notes": "557"
+          "chicago": 18,
+          "total": 557,
+          "notes": ""
         },
         {
           "sku": "PT-EML-R",
@@ -6106,8 +6106,8 @@
           "phoenix": 14,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "723"
+          "total": 723,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-C-S-RC",
@@ -6120,8 +6120,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "183"
+          "total": 183,
+          "notes": ""
         },
         {
           "sku": "PT-EML-S-RC",
@@ -6134,8 +6134,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "245"
+          "total": 245,
+          "notes": ""
         },
         {
           "sku": "EML-S-DL-1H",
@@ -6148,8 +6148,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "296"
+          "total": 296,
+          "notes": ""
         },
         {
           "sku": "EML-S-DL-2H",
@@ -6162,8 +6162,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "276"
+          "total": 276,
+          "notes": ""
         },
         {
           "sku": "EML-S-WL-1H",
@@ -6176,8 +6176,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "226"
+          "total": 226,
+          "notes": ""
         },
         {
           "sku": "EML-S-WL-2H",
@@ -6190,8 +6190,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "131"
+          "total": 131,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-EDL-1-R-CLR-AL",
@@ -6204,8 +6204,8 @@
           "phoenix": 15,
           "dallas": 16,
           "chicago": 0,
-          "total": 0,
-          "notes": "242"
+          "total": 242,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-EDL-2-R-MIR-AL",
@@ -6218,8 +6218,8 @@
           "phoenix": 19,
           "dallas": 27,
           "chicago": 0,
-          "total": 0,
-          "notes": "693"
+          "total": 693,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-EDL-1-G-CLR-AL",
@@ -6232,8 +6232,8 @@
           "phoenix": 32,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "71"
+          "total": 71,
+          "notes": ""
         },
         {
           "sku": "PT-EXL-EDL-2-G-MIR-AL",
@@ -6246,8 +6246,8 @@
           "phoenix": 24,
           "dallas": 20,
           "chicago": 0,
-          "total": 0,
-          "notes": "272"
+          "total": 272,
+          "notes": ""
         },
         {
           "sku": "PT-MS-BT",
@@ -6259,9 +6259,9 @@
           "louisville": 86,
           "phoenix": 0,
           "dallas": 200,
-          "chicago": 0,
-          "total": 441,
-          "notes": "4,203"
+          "chicago": 441,
+          "total": 4203,
+          "notes": ""
         },
         {
           "sku": "PT-MS-35-BT",
@@ -6274,8 +6274,8 @@
           "phoenix": 0,
           "dallas": 2,
           "chicago": 0,
-          "total": 0,
-          "notes": "444"
+          "total": 444,
+          "notes": ""
         },
         {
           "sku": "PT-BTN",
@@ -6288,8 +6288,8 @@
           "phoenix": 0,
           "dallas": 1,
           "chicago": 0,
-          "total": 0,
-          "notes": "132"
+          "total": 132,
+          "notes": ""
         },
         {
           "sku": "PT-A-EMS-MW",
@@ -6302,8 +6302,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "75"
+          "total": 75,
+          "notes": ""
         },
         {
           "sku": "PT-BTC-6",
@@ -6316,8 +6316,8 @@
           "phoenix": 0,
           "dallas": 1,
           "chicago": 0,
-          "total": 0,
-          "notes": "102"
+          "total": 102,
+          "notes": ""
         },
         {
           "sku": "PT-BTC-20",
@@ -6330,8 +6330,8 @@
           "phoenix": 0,
           "dallas": 1,
           "chicago": 0,
-          "total": 0,
-          "notes": "89"
+          "total": 89,
+          "notes": ""
         },
         {
           "sku": "PT-BTC-EM",
@@ -6344,8 +6344,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "47"
+          "total": 47,
+          "notes": ""
         },
         {
           "sku": "PT-MS-21-BT-JB",
@@ -6359,7 +6359,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-3WS-BT-B",
@@ -6371,9 +6371,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 1,
-          "chicago": 0,
-          "total": 1,
-          "notes": "213"
+          "chicago": 1,
+          "total": 213,
+          "notes": ""
         },
         {
           "sku": "PT-3WS-BT-A",
@@ -6385,9 +6385,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 2,
-          "chicago": 0,
-          "total": 25,
-          "notes": "96"
+          "chicago": 25,
+          "total": 96,
+          "notes": ""
         },
         {
           "sku": "PT-5WS-BT-B",
@@ -6399,9 +6399,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 2,
-          "chicago": 0,
-          "total": 25,
-          "notes": "61"
+          "chicago": 25,
+          "total": 61,
+          "notes": ""
         },
         {
           "sku": "PT-A-1WP",
@@ -6414,8 +6414,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "179"
+          "total": 179,
+          "notes": ""
         },
         {
           "sku": "PT-RTC-D-BT",
@@ -6428,8 +6428,8 @@
           "phoenix": 0,
           "dallas": 2,
           "chicago": 0,
-          "total": 0,
-          "notes": "176"
+          "total": 176,
+          "notes": ""
         },
         {
           "sku": "PT-GTB-D-BT",
@@ -6442,8 +6442,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "35"
+          "total": 35,
+          "notes": ""
         },
         {
           "sku": "ADP-35-SP",
@@ -6456,8 +6456,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "975"
+          "total": 975,
+          "notes": ""
         },
         {
           "sku": "PT-1WS-MS-BT-A",
@@ -6470,8 +6470,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "7"
+          "total": 7,
+          "notes": ""
         },
         {
           "sku": "A-CBL",
@@ -6484,8 +6484,8 @@
           "phoenix": 68,
           "dallas": 285,
           "chicago": 0,
-          "total": 0,
-          "notes": "470"
+          "total": 470,
+          "notes": ""
         },
         {
           "sku": "A-CBL-V",
@@ -6498,8 +6498,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "130"
+          "total": 130,
+          "notes": ""
         },
         {
           "sku": "A-CBL-10FT",
@@ -6512,8 +6512,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "715"
+          "total": 715,
+          "notes": ""
         },
         {
           "sku": "A-CBL-BLP-14",
@@ -6526,8 +6526,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "380"
+          "total": 380,
+          "notes": ""
         },
         {
           "sku": "A-CBL-BLP-224",
@@ -6539,9 +6539,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 67,
-          "notes": "171"
+          "chicago": 67,
+          "total": 171,
+          "notes": ""
         },
         {
           "sku": "PT-EMU3-25W",
@@ -6553,9 +6553,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 10,
-          "notes": "93"
+          "chicago": 10,
+          "total": 93,
+          "notes": ""
         },
         {
           "sku": "PT-EMU3-40W",
@@ -6567,9 +6567,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 20,
-          "notes": "141"
+          "chicago": 20,
+          "total": 141,
+          "notes": ""
         },
         {
           "sku": "PT-EMU3-40W-HV",
@@ -6582,8 +6582,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "50"
+          "total": 50,
+          "notes": ""
         },
         {
           "sku": "PT-EM1-15W",
@@ -6596,8 +6596,8 @@
           "phoenix": 4,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "4"
+          "total": 4,
+          "notes": ""
         },
         {
           "sku": "PT-EM1-30W",
@@ -6610,8 +6610,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "10"
+          "total": 10,
+          "notes": ""
         },
         {
           "sku": "PT-EMG-8W",
@@ -6624,8 +6624,8 @@
           "phoenix": 1,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1"
+          "total": 1,
+          "notes": ""
         },
         {
           "sku": "PT-EMG-15W",
@@ -6639,7 +6639,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-EMG-25W",
@@ -6653,7 +6653,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-EMD-8W",
@@ -6666,8 +6666,8 @@
           "phoenix": 30,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,159"
+          "total": 1159,
+          "notes": ""
         },
         {
           "sku": "PT-EMD-16W",
@@ -6680,8 +6680,8 @@
           "phoenix": 50,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "279"
+          "total": 279,
+          "notes": ""
         },
         {
           "sku": "PT-EMD-32W",
@@ -6694,8 +6694,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "267"
+          "total": 267,
+          "notes": ""
         },
         {
           "sku": "PT-EMA-8W",
@@ -6703,13 +6703,13 @@
           "wattage": "8",
           "category": "Accessories",
           "subcategory": "EM Battery",
-          "ontario": 276,
+          "ontario": 260,
           "louisville": 0,
           "phoenix": 87,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "363"
+          "total": 347,
+          "notes": ""
         },
         {
           "sku": "PT-EMA-25W",
@@ -6722,8 +6722,8 @@
           "phoenix": 25,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "279"
+          "total": 279,
+          "notes": ""
         },
         {
           "sku": "PT-EMA-32W",
@@ -6736,8 +6736,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "173"
+          "total": 173,
+          "notes": ""
         },
         {
           "sku": "PT-EMA-P-8W",
@@ -6745,13 +6745,13 @@
           "wattage": "8",
           "category": "Accessories",
           "subcategory": "EM Battery",
-          "ontario": 177,
+          "ontario": 170,
           "louisville": 0,
           "phoenix": 5,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "182"
+          "total": 175,
+          "notes": ""
         },
         {
           "sku": "PT-EMN-08W-050",
@@ -6765,7 +6765,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-EMN-08W-155",
@@ -6779,7 +6779,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-EMN-15W-050",
@@ -6792,8 +6792,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1"
+          "total": 1,
+          "notes": ""
         },
         {
           "sku": "PT-EMN-15W-155",
@@ -6801,13 +6801,13 @@
           "wattage": "15",
           "category": "Accessories",
           "subcategory": "EM Battery",
-          "ontario": 204,
+          "ontario": 193,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "204"
+          "total": 193,
+          "notes": ""
         },
         {
           "sku": "RC-EMU",
@@ -6820,8 +6820,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "150"
+          "total": 150,
+          "notes": ""
         },
         {
           "sku": "PSA",
@@ -6834,8 +6834,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "7"
+          "total": 7,
+          "notes": ""
         },
         {
           "sku": "PSB",
@@ -6848,8 +6848,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "328"
+          "total": 328,
+          "notes": ""
         },
         {
           "sku": "PC-HV",
@@ -6861,9 +6861,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 40,
-          "notes": "444"
+          "chicago": 40,
+          "total": 444,
+          "notes": ""
         },
         {
           "sku": "MS-MW",
@@ -6876,8 +6876,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "331"
+          "total": 331,
+          "notes": ""
         },
         {
           "sku": "DC12V",
@@ -6890,8 +6890,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "4,134"
+          "total": 4134,
+          "notes": ""
         },
         {
           "sku": "MS-UNI-MW",
@@ -6904,8 +6904,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,442"
+          "total": 1442,
+          "notes": ""
         },
         {
           "sku": "MS-UNI-MW2",
@@ -6917,9 +6917,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 119,
-          "notes": "419"
+          "chicago": 119,
+          "total": 419,
+          "notes": ""
         },
         {
           "sku": "MS-UNI-PR",
@@ -6927,13 +6927,13 @@
           "wattage": "N/A",
           "category": "Accessories",
           "subcategory": "Motion Sensor",
-          "ontario": 1959,
+          "ontario": 1946,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 82,
-          "notes": "2,041"
+          "chicago": 82,
+          "total": 2028,
+          "notes": ""
         },
         {
           "sku": "RC-UNI-MW",
@@ -6946,8 +6946,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "14"
+          "total": 14,
+          "notes": ""
         },
         {
           "sku": "MSH-RC2",
@@ -6955,13 +6955,13 @@
           "wattage": "N/A",
           "category": "Accessories",
           "subcategory": "Motion Sensor",
-          "ontario": 83,
+          "ontario": 82,
           "louisville": 0,
           "phoenix": 1,
           "dallas": 0,
-          "chicago": 0,
-          "total": 4,
-          "notes": "88"
+          "chicago": 4,
+          "total": 87,
+          "notes": ""
         },
         {
           "sku": "MS-WP3",
@@ -6974,8 +6974,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "156"
+          "total": 156,
+          "notes": ""
         },
         {
           "sku": "PT-UNI2-SP-MW",
@@ -6988,8 +6988,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "678"
+          "total": 678,
+          "notes": ""
         },
         {
           "sku": "PT-UNI2-SP-PR",
@@ -7003,7 +7003,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "PT-UNI-SP-PR-3",
@@ -7016,8 +7016,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "810"
+          "total": 810,
+          "notes": ""
         },
         {
           "sku": "PT-UNI-35-PR",
@@ -7025,13 +7025,13 @@
           "wattage": "N/A",
           "category": "Accessories",
           "subcategory": "Motion Sensor",
-          "ontario": 2206,
+          "ontario": 2208,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "2,206"
+          "total": 2208,
+          "notes": ""
         },
         {
           "sku": "PT-MSK-LV-MW",
@@ -7044,8 +7044,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "655"
+          "total": 655,
+          "notes": ""
         },
         {
           "sku": "PT-MSH-LV-MW",
@@ -7058,8 +7058,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "327"
+          "total": 327,
+          "notes": ""
         },
         {
           "sku": "PT-MS-4P-PR",
@@ -7072,8 +7072,8 @@
           "phoenix": 0,
           "dallas": 2,
           "chicago": 0,
-          "total": 0,
-          "notes": "856"
+          "total": 856,
+          "notes": ""
         },
         {
           "sku": "SC",
@@ -7086,8 +7086,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "26"
+          "total": 26,
+          "notes": ""
         },
         {
           "sku": "SC2",
@@ -7100,8 +7100,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "37"
+          "total": 37,
+          "notes": ""
         },
         {
           "sku": "MSS-EXT",
@@ -7114,8 +7114,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,144"
+          "total": 1144,
+          "notes": ""
         },
         {
           "sku": "MSS-RC-100",
@@ -7128,8 +7128,8 @@
           "phoenix": 0,
           "dallas": 4,
           "chicago": 0,
-          "total": 0,
-          "notes": "37"
+          "total": 37,
+          "notes": ""
         },
         {
           "sku": "ELB-UNI-35",
@@ -7142,8 +7142,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "2,269"
+          "total": 2269,
+          "notes": ""
         },
         {
           "sku": "RCP-35",
@@ -7156,8 +7156,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "5,071"
+          "total": 5071,
+          "notes": ""
         },
         {
           "sku": "MSK-LV-RC",
@@ -7170,8 +7170,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "20"
+          "total": 20,
+          "notes": ""
         },
         {
           "sku": "RCP-PC",
@@ -7185,7 +7185,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "RCP-PC2",
@@ -7198,8 +7198,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "12"
+          "total": 12,
+          "notes": ""
         },
         {
           "sku": "LO-LEV-161-04770-00C",
@@ -7212,8 +7212,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "256"
+          "total": 256,
+          "notes": ""
         },
         {
           "sku": "PT-SDT-325",
@@ -7226,8 +7226,8 @@
           "phoenix": 8,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "23"
+          "total": 23,
+          "notes": ""
         },
         {
           "sku": "PT-SDT-RHB-325",
@@ -7240,8 +7240,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1"
+          "total": 1,
+          "notes": ""
         },
         {
           "sku": "SP-10KV-HV",
@@ -7249,13 +7249,13 @@
           "wattage": "N/A",
           "category": "Accessories",
           "subcategory": "Surge Protector",
-          "ontario": 530,
+          "ontario": 529,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "530"
+          "total": 529,
+          "notes": ""
         },
         {
           "sku": "SP-10KV-LV",
@@ -7268,8 +7268,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "627"
+          "total": 627,
+          "notes": ""
         },
         {
           "sku": "JB-HB",
@@ -7282,8 +7282,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "430"
+          "total": 430,
+          "notes": ""
         },
         {
           "sku": "JB-3WY",
@@ -7296,8 +7296,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "78"
+          "total": 78,
+          "notes": ""
         },
         {
           "sku": "JB-WC",
@@ -7310,8 +7310,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "812"
+          "total": 812,
+          "notes": ""
         },
         {
           "sku": "3PWC",
@@ -7324,8 +7324,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,320"
+          "total": 1320,
+          "notes": ""
         },
         {
           "sku": "5PWC",
@@ -7338,8 +7338,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "763"
+          "total": 763,
+          "notes": ""
         },
         {
           "sku": "MC-5W-SC-6F",
@@ -7352,8 +7352,8 @@
           "phoenix": 430,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,844"
+          "total": 1844,
+          "notes": ""
         },
         {
           "sku": "MC-6W-SC-6F",
@@ -7366,8 +7366,8 @@
           "phoenix": 387,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1,817"
+          "total": 1817,
+          "notes": ""
         },
         {
           "sku": "SN-HD",
@@ -7381,7 +7381,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "SN-HD3",
@@ -7394,8 +7394,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "2,078"
+          "total": 2078,
+          "notes": ""
         },
         {
           "sku": "CON-90",
@@ -7408,8 +7408,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "912"
+          "total": 912,
+          "notes": ""
         },
         {
           "sku": "LO-LEV-161-04720-00C",
@@ -7423,7 +7423,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "LO-LEV-161-04770-00C",
@@ -7436,8 +7436,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "256"
+          "total": 256,
+          "notes": ""
         },
         {
           "sku": "PLUG-5FT",
@@ -7450,8 +7450,8 @@
           "phoenix": 0,
           "dallas": 7,
           "chicago": 0,
-          "total": 0,
-          "notes": "295"
+          "total": 295,
+          "notes": ""
         },
         {
           "sku": "CLVS-MO-4FT-50W-50K",
@@ -7464,8 +7464,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1"
+          "total": 1,
+          "notes": ""
         },
         {
           "sku": "CLVS-MO-8FT-100W-50K",
@@ -7478,8 +7478,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "219"
+          "total": 219,
+          "notes": ""
         },
         {
           "sku": "CLVS-WD-4FT-200W-50K",
@@ -7491,9 +7491,9 @@
           "louisville": 45,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 40,
-          "notes": "104"
+          "chicago": 40,
+          "total": 104,
+          "notes": ""
         },
         {
           "sku": "CLTP-30W-BL",
@@ -7506,8 +7506,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "135"
+          "total": 135,
+          "notes": ""
         },
         {
           "sku": "CLTP-40W-40K",
@@ -7519,9 +7519,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 50,
-          "notes": "595"
+          "chicago": 50,
+          "total": 595,
+          "notes": ""
         },
         {
           "sku": "CLTP-40W-40K-EM",
@@ -7534,8 +7534,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "50"
+          "total": 50,
+          "notes": ""
         },
         {
           "sku": "CLTP-40W-40K-MS",
@@ -7548,8 +7548,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "50"
+          "total": 50,
+          "notes": ""
         },
         {
           "sku": "CLTP-40W-40K-MS-EM",
@@ -7562,8 +7562,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "49"
+          "total": 49,
+          "notes": ""
         },
         {
           "sku": "CLTP-40W-50K",
@@ -7577,7 +7577,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "CLTP-40W-50K-EM",
@@ -7590,8 +7590,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "23"
+          "total": 23,
+          "notes": ""
         },
         {
           "sku": "CLTP-40W-50K-MS",
@@ -7604,8 +7604,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "42"
+          "total": 42,
+          "notes": ""
         },
         {
           "sku": "CLTP-40W-50K-MS-EM",
@@ -7619,7 +7619,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "CLTP-80W-40K",
@@ -7631,9 +7631,9 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 0,
-          "total": 50,
-          "notes": "335"
+          "chicago": 50,
+          "total": 335,
+          "notes": ""
         },
         {
           "sku": "CLTP-80W-40K-EM",
@@ -7646,8 +7646,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "50"
+          "total": 50,
+          "notes": ""
         },
         {
           "sku": "CLTP-80W-40K-MS",
@@ -7660,8 +7660,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "40"
+          "total": 40,
+          "notes": ""
         },
         {
           "sku": "CLTP-80W-40K-MS-EM",
@@ -7674,8 +7674,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "50"
+          "total": 50,
+          "notes": ""
         },
         {
           "sku": "CLTP-80W-50K",
@@ -7688,8 +7688,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "10"
+          "total": 10,
+          "notes": ""
         },
         {
           "sku": "CLTP-80W-50K-EM",
@@ -7702,8 +7702,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "44"
+          "total": 44,
+          "notes": ""
         },
         {
           "sku": "CLTP-80W-50K-MS",
@@ -7716,8 +7716,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "55"
+          "total": 55,
+          "notes": ""
         },
         {
           "sku": "CLTP-80W-50K-MS-EM",
@@ -7730,8 +7730,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "1"
+          "total": 1,
+          "notes": ""
         },
         {
           "sku": "DBL-WIRE-VTF",
@@ -7744,8 +7744,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "175"
+          "total": 175,
+          "notes": ""
         },
         {
           "sku": "SNGL-WIRE-VTF",
@@ -7758,8 +7758,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "201"
+          "total": 201,
+          "notes": ""
         },
         {
           "sku": "CLRHF-150W-50K",
@@ -7772,8 +7772,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "11"
+          "total": 11,
+          "notes": ""
         },
         {
           "sku": "CLRHF-150W-50K-480V",
@@ -7786,8 +7786,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "20"
+          "total": 20,
+          "notes": ""
         },
         {
           "sku": "CLRHF-200W-50K",
@@ -7800,8 +7800,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "27"
+          "total": 27,
+          "notes": ""
         },
         {
           "sku": "CLRHF-200W-50K-480V",
@@ -7815,7 +7815,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "CLRHF-240W-50K",
@@ -7828,8 +7828,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "17"
+          "total": 17,
+          "notes": ""
         },
         {
           "sku": "CLRHF-240W-50K-480V",
@@ -7842,8 +7842,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "20"
+          "total": 20,
+          "notes": ""
         },
         {
           "sku": "CLFL1-100W",
@@ -7856,8 +7856,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "14"
+          "total": 14,
+          "notes": ""
         },
         {
           "sku": "CLFL1-200W",
@@ -7870,8 +7870,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "40"
+          "total": 40,
+          "notes": ""
         },
         {
           "sku": "CLFL1-300W",
@@ -7884,8 +7884,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "17"
+          "total": 17,
+          "notes": ""
         },
         {
           "sku": "CLFL1-400W",
@@ -7899,7 +7899,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "CLFL1-600W",
@@ -7913,7 +7913,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "CLFL2-480W",
@@ -7927,7 +7927,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "0"
+          "notes": ""
         },
         {
           "sku": "LENS-CLFL1-30",
@@ -7940,8 +7940,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "17"
+          "total": 17,
+          "notes": ""
         },
         {
           "sku": "LENS-CLFL1-60",
@@ -7954,8 +7954,8 @@
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "17"
+          "total": 17,
+          "notes": ""
         }
       ],
       "count": 568
