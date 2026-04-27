@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T13:47:02.999772+00:00",
-  "updated_at_formatted": "April 26, 2026 at 08:47 AM EST",
+  "updated_at": "2026-04-27T14:34:36.135062+00:00",
+  "updated_at_formatted": "April 27, 2026 at 09:34 AM EST",
   "tabs": {
     "inventory": {
       "name": "Inventory List",
@@ -2904,6 +2904,20 @@
           "notes": ""
         },
         {
+          "sku": "PT-LHB-150-2C3P",
+          "description": "Linear Highbay",
+          "wattage": "100/120/150W",
+          "category": "Linear High Bay",
+          "subcategory": "Linear High Bay",
+          "ontario": 0,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 0,
+          "notes": ""
+        },
+        {
           "sku": "PT-LHB-155-2C3P",
           "description": "Linear Highbay",
           "wattage": "115/130/155",
@@ -2943,6 +2957,20 @@
           "dallas": 135,
           "chicago": 80,
           "total": 779,
+          "notes": ""
+        },
+        {
+          "sku": "PT-LHB-215-2C3P",
+          "description": "Linear Highbay",
+          "wattage": "130/170/215W",
+          "category": "Linear High Bay",
+          "subcategory": "Linear High Bay",
+          "ontario": 0,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 0,
           "notes": ""
         },
         {
@@ -3884,11 +3912,25 @@
           "notes": ""
         },
         {
+          "sku": "PT-BLP-HO-24-67-5C4P",
+          "description": "2x4 High Output Panel",
+          "wattage": "41/47/51/67",
+          "category": "Flat Panel",
+          "subcategory": "High Output",
+          "ontario": 0,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 0,
+          "notes": ""
+        },
+        {
           "sku": "SMK-UNI-14",
           "description": "Surface Mount Kit",
           "wattage": "N/A",
           "category": "Flat Panel",
-          "subcategory": "Sensor Ready",
+          "subcategory": "High Output",
           "ontario": 441,
           "louisville": 14,
           "phoenix": 0,
@@ -3902,7 +3944,7 @@
           "description": "Surface Mount Kit",
           "wattage": "N/A",
           "category": "Flat Panel",
-          "subcategory": "Sensor Ready",
+          "subcategory": "High Output",
           "ontario": 751,
           "louisville": 29,
           "phoenix": 0,
@@ -3916,7 +3958,7 @@
           "description": "Surface Mount Kit",
           "wattage": "N/A",
           "category": "Flat Panel",
-          "subcategory": "Sensor Ready",
+          "subcategory": "High Output",
           "ontario": 380,
           "louisville": 35,
           "phoenix": 0,
@@ -3930,7 +3972,7 @@
           "description": "Flange Kit",
           "wattage": "N/A",
           "category": "Flat Panel",
-          "subcategory": "Sensor Ready",
+          "subcategory": "High Output",
           "ontario": 150,
           "louisville": 34,
           "phoenix": 21,
@@ -3944,7 +3986,7 @@
           "description": "Flange Kit",
           "wattage": "N/A",
           "category": "Flat Panel",
-          "subcategory": "Sensor Ready",
+          "subcategory": "High Output",
           "ontario": 170,
           "louisville": 45,
           "phoenix": 43,
@@ -3958,7 +4000,7 @@
           "description": "Flange Kit",
           "wattage": "N/A",
           "category": "Flat Panel",
-          "subcategory": "Sensor Ready",
+          "subcategory": "High Output",
           "ontario": 91,
           "louisville": 43,
           "phoenix": 53,
@@ -3972,7 +4014,7 @@
           "description": "Aircraft Cable",
           "wattage": "N/A",
           "category": "Flat Panel",
-          "subcategory": "Sensor Ready",
+          "subcategory": "High Output",
           "ontario": 380,
           "louisville": 0,
           "phoenix": 0,
@@ -3986,7 +4028,7 @@
           "description": "Aircraft Cable",
           "wattage": "N/A",
           "category": "Flat Panel",
-          "subcategory": "Sensor Ready",
+          "subcategory": "High Output",
           "ontario": 104,
           "louisville": 0,
           "phoenix": 0,
@@ -5466,9 +5508,9 @@
           "notes": ""
         },
         {
-          "sku": "PT-WAM-4F9I-3CP",
+          "sku": "PT-WAM-4F10I-46-5C3P-2",
           "description": "Modern Wrap Around",
-          "wattage": "30/40/50",
+          "wattage": "30/38/46W",
           "category": "Wraparound",
           "subcategory": "Modern Wraparound",
           "ontario": 0,
@@ -7188,7 +7230,7 @@
           "notes": ""
         }
       ],
-      "count": 513
+      "count": 516
     }
   }
 }
