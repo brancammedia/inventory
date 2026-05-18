@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-17T14:05:35.036398+00:00",
-  "updated_at_formatted": "May 17, 2026 at 09:05 AM EST",
+  "updated_at": "2026-05-18T16:03:24.347851+00:00",
+  "updated_at_formatted": "May 18, 2026 at 11:03 AM EST",
   "tabs": {
     "inventory": {
       "name": "Inventory List",
@@ -3763,12 +3763,12 @@
           "wattage": "N/A",
           "category": "Round High Bay",
           "subcategory": "High Bay - Round Sensor Options",
-          "ontario": 14,
+          "ontario": 5,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 14,
+          "total": 5,
           "notes": ""
         },
         {
@@ -5697,10 +5697,10 @@
           "subcategory": "Emergency Light",
           "ontario": 566,
           "louisville": 50,
-          "phoenix": 5,
+          "phoenix": 14,
           "dallas": 60,
           "chicago": 0,
-          "total": 681,
+          "total": 690,
           "notes": ""
         },
         {
@@ -6535,12 +6535,12 @@
           "wattage": "N/A",
           "category": "Accessories",
           "subcategory": "Motion Sensor",
-          "ontario": 14,
+          "ontario": 5,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 14,
+          "total": 5,
           "notes": ""
         },
         {
