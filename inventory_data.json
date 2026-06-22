@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T14:55:50.077445+00:00",
-  "updated_at_formatted": "June 21, 2026 at 09:55 AM EST",
+  "updated_at": "2026-06-22T17:15:16.246551+00:00",
+  "updated_at_formatted": "June 22, 2026 at 12:15 PM EST",
   "tabs": {
     "inventory": {
       "name": "Inventory List",
@@ -892,7 +892,7 @@
           "description": "Canopy",
           "wattage": "20/30/40",
           "category": "Canopy",
-          "subcategory": "",
+          "subcategory": "Canopy",
           "ontario": 136,
           "louisville": 47,
           "phoenix": 0,
@@ -906,7 +906,7 @@
           "description": "Canopy",
           "wattage": "55/65/75",
           "category": "Canopy",
-          "subcategory": "",
+          "subcategory": "Canopy",
           "ontario": 206,
           "louisville": 48,
           "phoenix": 0,
@@ -920,7 +920,7 @@
           "description": "Canopy",
           "wattage": "28/35/40",
           "category": "Canopy",
-          "subcategory": "",
+          "subcategory": "Canopy",
           "ontario": 306,
           "louisville": 30,
           "phoenix": 0,
@@ -931,10 +931,10 @@
         },
         {
           "sku": "PT-CPY-S-80-3C5P",
-          "description": "",
-          "wattage": "",
+          "description": "Canopy",
+          "wattage": "20/40/60/70/80",
           "category": "Canopy",
-          "subcategory": "",
+          "subcategory": "Square Canopy",
           "ontario": 759,
           "louisville": 0,
           "phoenix": 0,
@@ -6712,25 +6712,11 @@
           "notes": ""
         },
         {
-          "sku": "MSS-EXT",
-          "description": "Motion Sensor",
-          "wattage": "N/A",
-          "category": "Accessories",
-          "subcategory": "Motion Sensors Accessories",
-          "ontario": 0,
-          "louisville": 0,
-          "phoenix": 0,
-          "dallas": 0,
-          "chicago": 0,
-          "total": 0,
-          "notes": ""
-        },
-        {
           "sku": "MSS-RC-100",
           "description": "Remote Control",
           "wattage": "N/A",
           "category": "Accessories",
-          "subcategory": "Motion Sensors Accessories",
+          "subcategory": "Shorting Cap",
           "ontario": 41,
           "louisville": 4,
           "phoenix": 0,
@@ -6744,7 +6730,7 @@
           "description": "Elbow Bracket",
           "wattage": "N/A",
           "category": "Accessories",
-          "subcategory": "Motion Sensors Accessories",
+          "subcategory": "Shorting Cap",
           "ontario": 3862,
           "louisville": 0,
           "phoenix": 0,
@@ -6758,7 +6744,7 @@
           "description": "Audiojack Receptacle",
           "wattage": "N/A",
           "category": "Accessories",
-          "subcategory": "Motion Sensors Accessories",
+          "subcategory": "Shorting Cap",
           "ontario": 3538,
           "louisville": 0,
           "phoenix": 0,
@@ -6772,7 +6758,7 @@
           "description": "Remote Control",
           "wattage": "N/A",
           "category": "Accessories",
-          "subcategory": "Motion Sensors Accessories",
+          "subcategory": "Shorting Cap",
           "ontario": 16,
           "louisville": 0,
           "phoenix": 0,
@@ -6782,25 +6768,11 @@
           "notes": ""
         },
         {
-          "sku": "RCP-PC",
-          "description": "Photocell Receptacle",
-          "wattage": "N/A",
-          "category": "Accessories",
-          "subcategory": "Photocell Accessories",
-          "ontario": 0,
-          "louisville": 0,
-          "phoenix": 0,
-          "dallas": 0,
-          "chicago": 0,
-          "total": 0,
-          "notes": ""
-        },
-        {
           "sku": "RCP-PC2",
           "description": "Photocell Receptacle",
           "wattage": "N/A",
           "category": "Accessories",
-          "subcategory": "Photocell Accessories",
+          "subcategory": "Photocell Receptacle",
           "ontario": 12,
           "louisville": 0,
           "phoenix": 0,
@@ -6814,7 +6786,7 @@
           "description": "",
           "wattage": "N/A",
           "category": "Accessories",
-          "subcategory": "Photocell Accessories",
+          "subcategory": "Photocell Receptacle",
           "ontario": 156,
           "louisville": 0,
           "phoenix": 0,
@@ -7300,7 +7272,7 @@
           "notes": ""
         }
       ],
-      "count": 521
+      "count": 519
     }
   }
 }
