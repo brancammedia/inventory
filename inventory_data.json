@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-05T14:16:55.558316+00:00",
-  "updated_at_formatted": "July 05, 2026 at 09:16 AM EST",
+  "updated_at": "2026-07-06T16:01:12.388879+00:00",
+  "updated_at_formatted": "July 06, 2026 at 11:01 AM EST",
   "tabs": {
     "inventory": {
       "name": "Inventory List",
@@ -5247,12 +5247,12 @@
           "wattage": "36/48/60",
           "category": "Wall Pack",
           "subcategory": "Full Cutoff Wall Pack",
-          "ontario": 216,
+          "ontario": 186,
           "louisville": 26,
           "phoenix": 10,
           "dallas": 3,
           "chicago": 0,
-          "total": 255,
+          "total": 225,
           "notes": ""
         },
         {
@@ -5261,12 +5261,12 @@
           "wattage": "72/96/120",
           "category": "Wall Pack",
           "subcategory": "Full Cutoff Wall Pack",
-          "ontario": 101,
+          "ontario": 91,
           "louisville": 67,
           "phoenix": 38,
           "dallas": 24,
           "chicago": 27,
-          "total": 257,
+          "total": 247,
           "notes": ""
         },
         {
