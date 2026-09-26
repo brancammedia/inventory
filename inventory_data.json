@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-25T17:28:00.552516+00:00",
-  "updated_at_formatted": "September 25, 2026 at 12:28 PM EST",
+  "updated_at": "2026-09-26T16:38:04.097188+00:00",
+  "updated_at_formatted": "September 26, 2026 at 11:38 AM EST",
   "tabs": {
     "inventory": {
       "name": "Inventory List",
@@ -95,12 +95,12 @@
           "wattage": "200/240/300",
           "category": "Area Light",
           "subcategory": "Area Light Econ",
-          "ontario": 622,
+          "ontario": 624,
           "louisville": 0,
           "phoenix": 22,
           "dallas": 55,
           "chicago": 0,
-          "total": 699,
+          "total": 701,
           "notes": ""
         },
         {
@@ -211,8 +211,8 @@
           "louisville": 1,
           "phoenix": 27,
           "dallas": 19,
-          "chicago": 80,
-          "total": 768,
+          "chicago": 85,
+          "total": 773,
           "notes": ""
         },
         {
@@ -336,9 +336,9 @@
           "ontario": 272,
           "louisville": 22,
           "phoenix": 0,
-          "dallas": 26,
+          "dallas": 27,
           "chicago": 63,
-          "total": 383,
+          "total": 384,
           "notes": ""
         },
         {
@@ -351,8 +351,8 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 40,
-          "total": 227,
+          "chicago": 91,
+          "total": 278,
           "notes": ""
         },
         {
@@ -1021,10 +1021,10 @@
           "subcategory": "Corn Bulb",
           "ontario": 390,
           "louisville": 114,
-          "phoenix": 12,
+          "phoenix": 5,
           "dallas": 0,
           "chicago": 0,
-          "total": 516,
+          "total": 509,
           "notes": ""
         },
         {
@@ -1033,12 +1033,12 @@
           "wattage": "6/8/10",
           "category": "Downlights",
           "subcategory": "5C3P Retrofit Downlight",
-          "ontario": 6478,
+          "ontario": 6486,
           "louisville": 120,
           "phoenix": 0,
           "dallas": 120,
           "chicago": 0,
-          "total": 6718,
+          "total": 6726,
           "notes": ""
         },
         {
@@ -1061,12 +1061,12 @@
           "wattage": "7/10/14",
           "category": "Downlights",
           "subcategory": "5C3P Retrofit Downlight",
-          "ontario": 4928,
+          "ontario": 4820,
           "louisville": 0,
           "phoenix": 242,
           "dallas": 1476,
           "chicago": 0,
-          "total": 6646,
+          "total": 6538,
           "notes": ""
         },
         {
@@ -1453,12 +1453,12 @@
           "wattage": "12",
           "category": "Downlights",
           "subcategory": "Gimbal Downlight",
-          "ontario": 495,
+          "ontario": 471,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 495,
+          "total": 471,
           "notes": ""
         },
         {
@@ -1680,9 +1680,9 @@
           "ontario": 4,
           "louisville": 0,
           "phoenix": 0,
-          "dallas": 0,
+          "dallas": 24,
           "chicago": 0,
-          "total": 4,
+          "total": 28,
           "notes": ""
         },
         {
@@ -1862,9 +1862,9 @@
           "ontario": 13,
           "louisville": 0,
           "phoenix": 0,
-          "dallas": 79,
+          "dallas": 9,
           "chicago": 0,
-          "total": 92,
+          "total": 22,
           "notes": ""
         },
         {
@@ -2363,12 +2363,12 @@
           "wattage": "17/24/30",
           "category": "Downlights",
           "subcategory": "CDL3",
-          "ontario": 389,
+          "ontario": 385,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 53,
-          "chicago": 22,
-          "total": 464,
+          "chicago": 10,
+          "total": 448,
           "notes": ""
         },
         {
@@ -2377,12 +2377,12 @@
           "wattage": "22/30/38",
           "category": "Downlights",
           "subcategory": "CDL3",
-          "ontario": 1001,
+          "ontario": 1000,
           "louisville": 0,
           "phoenix": 1,
           "dallas": 0,
           "chicago": 0,
-          "total": 1002,
+          "total": 1001,
           "notes": ""
         },
         {
@@ -2489,12 +2489,12 @@
           "wattage": "N/A",
           "category": "Downlights",
           "subcategory": "CDL Trims",
-          "ontario": 806,
+          "ontario": 802,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 806,
+          "total": 802,
           "notes": ""
         },
         {
@@ -2853,12 +2853,12 @@
           "wattage": "155",
           "category": "Linear High Bay",
           "subcategory": "Linear High Bay",
-          "ontario": 0,
+          "ontario": 2,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
+          "total": 2,
           "notes": ""
         },
         {
@@ -2867,12 +2867,12 @@
           "wattage": "100/120/150",
           "category": "Linear High Bay",
           "subcategory": "Linear High Bay",
-          "ontario": 1157,
+          "ontario": 1155,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 1157,
+          "total": 1155,
           "notes": ""
         },
         {
@@ -3119,12 +3119,12 @@
           "wattage": "165/180/215W",
           "category": "Linear High Bay",
           "subcategory": "Die-cast Linear High Bay",
-          "ontario": 294,
+          "ontario": 295,
           "louisville": 48,
           "phoenix": 40,
           "dallas": 0,
           "chicago": 0,
-          "total": 382,
+          "total": 383,
           "notes": ""
         },
         {
@@ -3189,12 +3189,12 @@
           "wattage": "135/155/185",
           "category": "Linear High Bay",
           "subcategory": "Twin Lens Linear High Bay",
-          "ontario": 1280,
+          "ontario": 1281,
           "louisville": 0,
           "phoenix": 25,
           "dallas": 60,
           "chicago": 0,
-          "total": 1365,
+          "total": 1366,
           "notes": ""
         },
         {
@@ -3315,12 +3315,12 @@
           "wattage": "100/120/150",
           "category": "Round High Bay",
           "subcategory": "RHB",
-          "ontario": 411,
+          "ontario": 379,
           "louisville": 0,
           "phoenix": 30,
           "dallas": 55,
           "chicago": 26,
-          "total": 522,
+          "total": 490,
           "notes": ""
         },
         {
@@ -3329,12 +3329,12 @@
           "wattage": "180/200/240",
           "category": "Round High Bay",
           "subcategory": "RHB",
-          "ontario": 565,
+          "ontario": 562,
           "louisville": 0,
           "phoenix": 22,
           "dallas": 140,
           "chicago": 36,
-          "total": 763,
+          "total": 760,
           "notes": ""
         },
         {
@@ -3385,12 +3385,12 @@
           "wattage": "180/200/240",
           "category": "Round High Bay",
           "subcategory": "RHB",
-          "ontario": 310,
+          "ontario": 314,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 310,
+          "total": 314,
           "notes": ""
         },
         {
@@ -3850,9 +3850,9 @@
           "ontario": 1817,
           "louisville": 0,
           "phoenix": 461,
-          "dallas": 158,
+          "dallas": 151,
           "chicago": 530,
-          "total": 2966,
+          "total": 2959,
           "notes": ""
         },
         {
@@ -3861,12 +3861,12 @@
           "wattage": "25/30/40",
           "category": "Flat Panel",
           "subcategory": "BLP9",
-          "ontario": 366,
+          "ontario": 365,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 366,
+          "total": 365,
           "notes": ""
         },
         {
@@ -4029,12 +4029,12 @@
           "wattage": "N/A",
           "category": "Flat Panel",
           "subcategory": "High Output",
-          "ontario": 27,
+          "ontario": 23,
           "louisville": 2,
           "phoenix": 30,
           "dallas": 35,
           "chicago": 22,
-          "total": 116,
+          "total": 112,
           "notes": ""
         },
         {
@@ -4519,12 +4519,12 @@
           "wattage": "15/20/25W",
           "category": "Strip Light",
           "subcategory": "LS1",
-          "ontario": 50,
+          "ontario": 49,
           "louisville": 1,
           "phoenix": 15,
           "dallas": 116,
           "chicago": 39,
-          "total": 221,
+          "total": 220,
           "notes": ""
         },
         {
@@ -4537,8 +4537,8 @@
           "louisville": 0,
           "phoenix": 88,
           "dallas": 49,
-          "chicago": 5,
-          "total": 1408,
+          "chicago": 13,
+          "total": 1416,
           "notes": ""
         },
         {
@@ -4603,12 +4603,12 @@
           "wattage": "112/126/142W",
           "category": "Strip Light",
           "subcategory": "High Output",
-          "ontario": 342,
+          "ontario": 337,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 38,
           "chicago": 0,
-          "total": 380,
+          "total": 375,
           "notes": "ETA July"
         },
         {
@@ -4704,9 +4704,9 @@
           "ontario": 967,
           "louisville": 0,
           "phoenix": 185,
-          "dallas": 172,
+          "dallas": 171,
           "chicago": 238,
-          "total": 1562,
+          "total": 1561,
           "notes": ""
         },
         {
@@ -4715,12 +4715,12 @@
           "wattage": "34/38/45",
           "category": "Troffer",
           "subcategory": "2nd Gen Troffer",
-          "ontario": 905,
+          "ontario": 811,
           "louisville": 0,
-          "phoenix": 143,
-          "dallas": 541,
+          "phoenix": 144,
+          "dallas": 503,
           "chicago": 85,
-          "total": 1674,
+          "total": 1543,
           "notes": ""
         },
         {
@@ -4746,9 +4746,9 @@
           "ontario": 0,
           "louisville": 0,
           "phoenix": 23,
-          "dallas": 24,
+          "dallas": 15,
           "chicago": 0,
-          "total": 47,
+          "total": 38,
           "notes": ""
         },
         {
@@ -4841,12 +4841,12 @@
           "wattage": "25/30/35",
           "category": "Troffer",
           "subcategory": "Sensor Ready Troffer",
-          "ontario": 383,
+          "ontario": 389,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 20,
-          "total": 403,
+          "total": 409,
           "notes": ""
         },
         {
@@ -5107,12 +5107,12 @@
           "wattage": "150/175/200",
           "category": "Vapor Seal",
           "subcategory": "Wide Body Vapor Seal",
-          "ontario": 153,
+          "ontario": 151,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 21,
           "chicago": 0,
-          "total": 174,
+          "total": 172,
           "notes": ""
         },
         {
@@ -5219,12 +5219,12 @@
           "wattage": "45/60/75W",
           "category": "Wall Pack",
           "subcategory": "Wall Pack",
-          "ontario": 192,
+          "ontario": 180,
           "louisville": 0,
           "phoenix": 30,
           "dallas": 0,
           "chicago": 0,
-          "total": 222,
+          "total": 210,
           "notes": ""
         },
         {
@@ -5235,10 +5235,10 @@
           "subcategory": "Wall Pack",
           "ontario": 369,
           "louisville": 0,
-          "phoenix": 15,
+          "phoenix": 14,
           "dallas": 14,
           "chicago": 0,
-          "total": 398,
+          "total": 397,
           "notes": ""
         },
         {
@@ -5247,11 +5247,11 @@
           "wattage": "36/48/60",
           "category": "Wall Pack",
           "subcategory": "Full Cutoff Wall Pack",
-          "ontario": 214,
+          "ontario": 211,
           "louisville": 0,
           "phoenix": 30,
           "dallas": 23,
-          "chicago": 20,
+          "chicago": 23,
           "total": 287,
           "notes": ""
         },
@@ -5401,12 +5401,12 @@
           "wattage": "40/50/60",
           "category": "Wall Pack",
           "subcategory": "Beam Angle Adjustable",
-          "ontario": 408,
+          "ontario": 396,
           "louisville": 0,
           "phoenix": 20,
-          "dallas": 1,
+          "dallas": 0,
           "chicago": 0,
-          "total": 429,
+          "total": 416,
           "notes": ""
         },
         {
@@ -5429,12 +5429,12 @@
           "wattage": "40/50/60",
           "category": "Wall Pack",
           "subcategory": "Beam Angle Adjustable",
-          "ontario": 138,
+          "ontario": 132,
           "louisville": 11,
           "phoenix": 0,
           "dallas": 3,
           "chicago": 0,
-          "total": 152,
+          "total": 146,
           "notes": ""
         },
         {
@@ -5543,10 +5543,10 @@
           "subcategory": "Wraparound",
           "ontario": 1037,
           "louisville": 1,
-          "phoenix": 55,
+          "phoenix": 57,
           "dallas": 8,
           "chicago": 33,
-          "total": 1134,
+          "total": 1136,
           "notes": ""
         },
         {
@@ -5639,12 +5639,12 @@
           "wattage": "3.5",
           "category": "Exit & Emergency",
           "subcategory": "Emergency Light",
-          "ontario": 225,
+          "ontario": 214,
           "louisville": 0,
           "phoenix": 52,
           "dallas": 24,
           "chicago": 7,
-          "total": 308,
+          "total": 297,
           "notes": ""
         },
         {
@@ -5670,9 +5670,9 @@
           "ontario": 144,
           "louisville": 0,
           "phoenix": 41,
-          "dallas": 24,
+          "dallas": 19,
           "chicago": 0,
-          "total": 209,
+          "total": 204,
           "notes": ""
         },
         {
@@ -6325,12 +6325,12 @@
           "wattage": "8",
           "category": "Accessories",
           "subcategory": "EM Battery",
-          "ontario": 66,
+          "ontario": 62,
           "louisville": 0,
           "phoenix": 36,
           "dallas": 0,
           "chicago": 0,
-          "total": 102,
+          "total": 98,
           "notes": ""
         },
         {
@@ -6339,12 +6339,12 @@
           "wattage": "25",
           "category": "Accessories",
           "subcategory": "EM Battery",
-          "ontario": 315,
+          "ontario": 310,
           "louisville": 0,
           "phoenix": 10,
           "dallas": 0,
           "chicago": 0,
-          "total": 325,
+          "total": 320,
           "notes": ""
         },
         {
@@ -6423,12 +6423,12 @@
           "wattage": "15",
           "category": "Accessories",
           "subcategory": "EM Battery",
-          "ontario": 79,
+          "ontario": 74,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 79,
+          "total": 74,
           "notes": ""
         },
         {
