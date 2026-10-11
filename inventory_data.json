@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T17:25:45.863579+00:00",
-  "updated_at_formatted": "October 10, 2026 at 12:25 PM EST",
+  "updated_at": "2026-10-11T17:45:04.162673+00:00",
+  "updated_at_formatted": "October 11, 2026 at 12:45 PM EST",
   "tabs": {
     "inventory": {
       "name": "Inventory List",
@@ -221,12 +221,12 @@
           "wattage": "N/A",
           "category": "Area Light",
           "subcategory": "Area Light Mounting",
-          "ontario": 1061,
+          "ontario": 1055,
           "louisville": 19,
           "phoenix": 12,
           "dallas": 40,
           "chicago": 45,
-          "total": 1177,
+          "total": 1171,
           "notes": ""
         },
         {
@@ -5975,12 +5975,12 @@
           "wattage": "3.5",
           "category": "Exit & Emergency",
           "subcategory": "Emergency Light",
-          "ontario": 444,
+          "ontario": 434,
           "louisville": 45,
           "phoenix": 47,
           "dallas": 24,
           "chicago": 3,
-          "total": 563,
+          "total": 553,
           "notes": ""
         },
         {
@@ -6787,12 +6787,12 @@
           "wattage": "N/A",
           "category": "Accessories",
           "subcategory": "Photocell",
-          "ontario": 356,
+          "ontario": 336,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 356,
+          "total": 336,
           "notes": ""
         },
         {
