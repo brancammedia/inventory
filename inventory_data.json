@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T18:00:54.989803+00:00",
-  "updated_at_formatted": "November 08, 2026 at 01:00 PM EST",
+  "updated_at": "2026-11-09T22:37:58.887793+00:00",
+  "updated_at_formatted": "November 09, 2026 at 05:37 PM EST",
   "tabs": {
     "inventory": {
       "name": "Inventory List",
@@ -4878,6 +4878,20 @@
           "notes": "ETA July"
         },
         {
+          "sku": "PT-LS-HO-4F-68-5C4P",
+          "description": "Strip Light",
+          "wattage": "40/47/53/68W",
+          "category": "Strip Light",
+          "subcategory": "High Output",
+          "ontario": 0,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 0,
+          "notes": ""
+        },
+        {
           "sku": "PT-LS-HO-8F-136-5C4P",
           "description": "Strip Light",
           "wattage": "80/94/106/136W",
@@ -7622,7 +7636,7 @@
           "notes": ""
         }
       ],
-      "count": 544
+      "count": 545
     }
   }
 }
